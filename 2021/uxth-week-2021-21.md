@@ -4,7 +4,7 @@ description: >-
   Product Design.
 ---
 
-# UXTH - Week 21
+# UXTH - Week 21, 2021
 
 ![](../.gitbook/assets/newsletter-banner-2021-21-bw.jpg)
 
