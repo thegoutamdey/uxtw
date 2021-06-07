@@ -2,7 +2,8 @@
 
 ## Articles of the week
 
-#### [Figma Config 2021 Full Playlist - Youtube](https://www.youtube.com/watch?v=v4g-oZ6mFIc&list=PLXDU_eVOJTx68R0B8tettMfY6XeItWhV4/?ref=thegoutamdey) Config is Figma’s annual conference where users come together to learn from each other. Config 2021 took place virtually over two days on April 21st & April 22nd.
+[Figma Config 2021 Full Playlist - Youtube](https://www.youtube.com/watch?v=v4g-oZ6mFIc&list=PLXDU_eVOJTx68R0B8tettMfY6XeItWhV4/?ref=thegoutamdey)  
+Config is Figma’s annual conference where users come together to learn from each other. Config 2021 took place virtually over two days on April 21st & April 22nd.
 
 [Designing an app from scratch, fast!](https://bootcamp.uxdesign.cc/designing-an-app-from-scratch-fast-91ab1591d56a/?ref=thegoutamdey)  
 Designing an app is not easy, there are many details you have to take into consideration. Finding the best solution between your product necessities, users’ needs, stakeholders’ expectations and development time is a challenge.  

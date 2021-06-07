@@ -12,3 +12,5 @@ If you want to contact him you may write him to  [thegoutamdey@gmail.com](mailto
 
 He also maintains a free UX starting guide at [https://thegoutamdey.gitbook.io/ux-design-getting-started-guide/](https://thegoutamdey.gitbook.io/ux-design-getting-started-guide/?ref=UXTW)
 
+## [Subscribe](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95) to [UXTW Newsletter](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95).
+
