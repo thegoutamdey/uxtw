@@ -5,9 +5,9 @@
 
 ## 2021
 
-* [UXTH - Week 21, 2021](2021/uxth-week-21-2021.md)
-* [UXTH - Week 20, 2021](2021/uxth-week-20-2021.md)
-* [UXTH - Week 19, 2021](2021/uxth-week-19-2021.md)
+* [UXTW - Week 21, 2021](2021/uxtw-week-21-2021.md)
+* [UXTW - Week 20, 2021](2021/uxtw-week-20-2021.md)
+* [UXTW - Week 19, 2021](2021/uxtw-week-19-2021.md)
 
 ## 2020
 

@@ -4,7 +4,7 @@ description: >-
   Product Design.
 ---
 
-# UXTH - Week 19, 2021
+# UXTW - Week 19, 2021
 
 ## Articles of the week
 
