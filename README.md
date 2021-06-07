@@ -11,7 +11,10 @@ Config is Figma’s annual conference where users come together to learn from ea
 Designing an app is not easy, there are many details you have to take into consideration. Finding the best solution between your product necessities, users’ needs, stakeholders’ expectations and development time is a challenge.  
   
 [How to Set SMART Goals For Your Design Career](https://trydesignlab.medium.com/how-to-set-smart-goals-for-your-design-career-92fe8c1fff3d/?ref=thegoutamdey)  
-Breaking your dreams down into digestible and tangible goals will help you achieve more in the long run.  
+Breaking your dreams down into digestible and tangible goals will help you achieve more in the long run.
+
+[UXTW](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)  
+Subscribe to _**UX This Week newsletter**_  to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.  
   
 [Designers today are not equipped to solve the problems of tomorrow](https://uxdesign.cc/designers-today-are-not-equipped-to-solve-the-problems-of-tomorrow-af9fea439ab9/?ref=thegoutamdey)  
 Designers are entrusted with increasingly complex and impactful challenges. However, the current system of design education does not always prepare students for these challenges  
@@ -29,6 +32,9 @@ This is a book about the fundamentals of creating a good web interface. You will
   
 [Nototo](https://www.nototo.app/?ref=thegoutamdey)  
 Humans, as hunter gatherers, have an incredible memory for visual/spatial cues. Join Nototo to take advantage of that.
+
+[UXTW](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)  
+Subscribe to UX This Week newsletter  to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
 
 
 
