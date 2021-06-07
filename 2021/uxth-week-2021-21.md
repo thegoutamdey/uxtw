@@ -1,3 +1,9 @@
+---
+description: >-
+  UX This Week a newsletter on User experience (UX) design, Design Thinking and
+  Product Design.
+---
+
 # UXTH - Week 21
 
 ![](../.gitbook/assets/newsletter-banner-2021-21-bw.jpg)
