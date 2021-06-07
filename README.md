@@ -1,3 +1,7 @@
+---
+description: Curated weekly newsletter
+---
+
 # UX This Week
 
 ![](.gitbook/assets/newsletter-banner-2021-22-bw.jpg)
