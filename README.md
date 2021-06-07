@@ -36,5 +36,5 @@ Humans, as hunter gatherers, have an incredible memory for visual/spatial cues. 
 [UXTW](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)  
 Subscribe to UX This Week newsletter  to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
 
-
+{% page-ref page="2021/untitled.md" %}
 
