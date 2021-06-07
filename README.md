@@ -1,5 +1,7 @@
 # UX This Week
 
+![](.gitbook/assets/newsletter-banner-2021-22-bw.jpg)
+
 ## Articles of the week
 
 [Figma Config 2021 Full Playlist - Youtube](https://www.youtube.com/watch?v=v4g-oZ6mFIc&list=PLXDU_eVOJTx68R0B8tettMfY6XeItWhV4/?ref=thegoutamdey)  
@@ -19,7 +21,7 @@ Colonial Pipeline appears to us today like Austin Powers, a creature of the ’6
 
 ## Products of the week
 
- [T](https://www.theunivation.com/?ref=thegoutamdey)[heunivation](https://2021.uxlondon.com/fest/?ref=thegoutamdey)  
+[T](https://www.theunivation.com/?ref=thegoutamdey)[heunivation](https://2021.uxlondon.com/fest/?ref=thegoutamdey)  
 The easiest platform to Build your idea or Run a startup building program  
   
 [Web Interface Handbook](https://imperavi.com/books/web-interface-handbook/?ref=thegoutamdey)  
@@ -27,4 +29,6 @@ This is a book about the fundamentals of creating a good web interface. You will
   
 [Nototo](https://www.nototo.app/?ref=thegoutamdey)  
 Humans, as hunter gatherers, have an incredible memory for visual/spatial cues. Join Nototo to take advantage of that.
+
+
 
