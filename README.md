@@ -1,5 +1,5 @@
 ---
-description: Curated weekly newsletter
+description: 'Curated weekly newsletter on UX Design, Product Design and Design Thinking.'
 ---
 
 # UX This Week
