@@ -1,10 +1,11 @@
 # Table of contents
 
 * [UX This Week](README.md)
+* [About UXTW](about-uxtw.md)
 
 ## 2021
 
-* [UXTH - Week 22](2021/untitled.md)
+* [UXTH - Week 21](2021/untitled.md)
 
 ## 2020
 
