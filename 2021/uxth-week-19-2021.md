@@ -40,5 +40,3 @@ Stylish & customizable set of illustrations to bring beauty and a friendly tone 
 [Skribbl](https://weareskribbl.com/?utm_source=thegoutamdey)  
 A growing collection of free, hand-drawn illustrations brought to you by a global community of aspiring creatives. You can use our free illustrations for any purpose, without attribution. Enjoy!
 
-{% page-ref page="../" %}
-

@@ -44,5 +44,3 @@ Forget massive tuition costs. Let Prodeus catalog the hours you spend learning o
 [UXTW](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)  
 Subscribe to _**UX This Week newsletter**_  to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
 
-{% page-ref page="../" %}
-

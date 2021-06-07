@@ -44,7 +44,5 @@ PatternPad offers unlimited unique pattern designs that fit your style. Ideal fo
 [UXTW](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)  
 Subscribe to UX This Week newsletter  to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
 
-{% page-ref page="../" %}
-
 
 
