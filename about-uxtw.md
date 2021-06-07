@@ -1,5 +1,7 @@
 ---
-description: UX
+description: >-
+  UX This week a newsletter on User experience (UX) design, Design Thinking and
+  Product Design.
 ---
 
 # About UXTW
