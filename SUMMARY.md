@@ -2,6 +2,7 @@
 
 * [UX This Week](README.md)
 * [About UXTW](about-uxtw.md)
+* [Free UX Resources](free-ux-resources.md)
 
 ## 2021
 
