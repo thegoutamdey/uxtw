@@ -6,6 +6,8 @@ description: >-
 
 # UXTW - Week 19, 2021
 
+![](../.gitbook/assets/newsletter-banner-2021-19.jpg)
+
 ## Articles of the week
 
 [7 Blind Spots That Sabotage the User Experience](https://uxplanet.org/7-blind-spots-that-sabotage-the-user-experience-5165f46302c9/?utm_source=thegoutamdey)  
