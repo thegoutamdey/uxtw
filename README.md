@@ -6,8 +6,6 @@ description: >-
 
 # UX This Week
 
-
-
 ![](.gitbook/assets/newsletter-banner-2021-22-bw.jpg)
 
 ## Articles of the week
