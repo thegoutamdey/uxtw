@@ -6,6 +6,8 @@ description: >-
 
 # UXTW - Week 18, 2021
 
+![](../.gitbook/assets/newsletter-banner-2021-18.jpg)
+
 ## Articles of the week
 
 [**5Es of usability**](https://www.wqusability.com/articles/getting-started.html/?utm_source=thegoutamdey)  
