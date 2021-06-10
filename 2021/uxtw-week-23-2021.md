@@ -6,7 +6,7 @@ description: >-
 
 # UXTW - Week 23, 2021
 
-![](../.gitbook/assets/newsletter-banner-2021-23-bw.jpg)
+
 
 ## Articles of the week
 
