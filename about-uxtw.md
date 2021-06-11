@@ -6,7 +6,7 @@ description: >-
 
 # About UXTW
 
-##   ![](.gitbook/assets/logo.png)What is UXTW
+![](.gitbook/assets/uxtw-header.jpg)
 
 UXTW - UX This week a newsletter maintains by [_**Goutam Dey**_](https://www.linkedin.com/in/goutamdey/). He  curates this UX newsletter w\every week for his subscribers. This page is the archive of this weekly newsletter. He also maintains and manages  social group in Linkedin and Facebook platform on User experience \(UX\) design, Design Thinking and Product Design. 
 
