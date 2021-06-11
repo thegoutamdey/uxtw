@@ -6,39 +6,48 @@ description: >-
 
 # UX This Week
 
-![](.gitbook/assets/newsletter-banner-2021-22-bw.jpg)
+![](.gitbook/assets/uxtw-banner-2021-23.jpg)
 
 ## Articles of the week
 
-[**Figma Config 2021 Full Playlist - Youtube**](https://www.youtube.com/watch?v=v4g-oZ6mFIc&list=PLXDU_eVOJTx68R0B8tettMfY6XeItWhV4/?ref=thegoutamdey)  
-Config is Figma’s annual conference where users come together to learn from each other. Config 2021 took place virtually over two days on April 21st & April 22nd.
+[U**sability Report Card is broken**](https://medium.com/ux-research-journal/why-i-dont-give-out-report-cards-b53262f5d8c9/?ref=thegoutamdey)  
+Resist the urge to reduce your usability findings into a series of checkmarks, X’s, and exclamation points.
 
-[**Designing an app from scratch, fast!**](https://bootcamp.uxdesign.cc/designing-an-app-from-scratch-fast-91ab1591d56a/?ref=thegoutamdey)  
-Designing an app is not easy, there are many details you have to take into consideration. Finding the best solution between your product necessities, users’ needs, stakeholders’ expectations and development time is a challenge.  
-  
-[**How to Set SMART Goals For Your Design Career**](https://trydesignlab.medium.com/how-to-set-smart-goals-for-your-design-career-92fe8c1fff3d/?ref=thegoutamdey)  
-Breaking your dreams down into digestible and tangible goals will help you achieve more in the long run.
+[**Designing for cognitive disabilities**](https://ux.shopify.com/designing-for-cognitive-disabilities-b2933d58c278/?ref=thegoutamdey)  
+Cognitive disabilities can look different for different people. It can look like someone with dementia who has difficulty remembering certain things.
+
+[**How to document accessibility as a UX designer**](https://bootcamp.uxdesign.cc/how-to-document-accessibility-as-a-ux-designer-c51476104723/?ref=thegoutamdey)  
+Documenting accessibility along with your regular design specs is a powerful way to communicate the importance of accessibility to product teams. It allows teams to have conversations about accessibility, and ensures that our experience for people who use assistive technology is thoughtful, intentional, and consistent.
+
+[**The Five Principles of UX Design Psychology**](https://uxplanet.org/the-five-principles-of-ux-design-psychology-can-you-predict-the-behavior-of-your-users-913784c1d66/?ref=thegoutamdey)  
+The design of an application affects the experience that the user has with it. How do you know what your users are thinking? The Five Principles of UX Design Psychology can help you gain insight into your customer’s minds by predicting their behavior and needs.
+
+[**The Anatomy of a Survey Question**](https://measuringu.com/anatomy-of-a-survey-question/?ref=thegoutamdey)  
+Despite being called questions, survey questions can be both questions and phrases, which is why some researchers refer to them with the broader item. Other researchers have referred to them as assertions, but that seems a bit cumbersome and unfamiliar. In our practice, we use question and item interchangeably.
 
 [**UXTW**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)  
-Subscribe to _**UX This Week newsletter**_  to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.  
-  
-[**Designers today are not equipped to solve the problems of tomorrow**](https://uxdesign.cc/designers-today-are-not-equipped-to-solve-the-problems-of-tomorrow-af9fea439ab9/?ref=thegoutamdey)  
-Designers are entrusted with increasingly complex and impactful challenges. However, the current system of design education does not always prepare students for these challenges  
-  
-[**Colonial Pipeline’s branding is a disaster**](https://www.fastcompany.com/90638863/colonial-pipelines-branding-is-a-disaster-that-shouldve-been-a-warning-sign?ref=thegoutamdey)  
-Colonial Pipeline appears to us today like Austin Powers, a creature of the ’60s suddenly unfrozen, and more than a bit out of place, in the present.
+Subscribe to _**UX This Week newsletter**_ to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
 
 ## Products of the week
 
-[**T**](https://www.theunivation.com/?ref=thegoutamdey)\*\*\*\*[**heunivation**](https://2021.uxlondon.com/fest/?ref=thegoutamdey)  
-The easiest platform to Build your idea or Run a startup building program  
-  
-[**Web Interface Handbook**](https://imperavi.com/books/web-interface-handbook/?ref=thegoutamdey)  
-This is a book about the fundamentals of creating a good web interface. You will find out how to make effective forms, typography, grids, and many other components of web design..  
-  
-[**Nototo**](https://www.nototo.app/?ref=thegoutamdey)  
-Humans, as hunter gatherers, have an incredible memory for visual/spatial cues. Join Nototo to take advantage of that.
+[**VoiceFlow**](https://www.voiceflow.com/?ref=thegoutamdey)  
+Design, prototype and launch chat/voice apps with no code.
+
+[**Quick Diagram**](https://quickdiagram.com/?ref=thegoutamdey)  
+A tool for generating diagrams and flowcharts from text.
+
+[**Design Engineering Handbook**](https://www.designbetter.co/design-engineering-handbook?ref=thegoutamdey)  
+Learn how design engineering brings together form and function while accelerating innovation.
 
 [**UXTW**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)  
-Subscribe to UX This Week newsletter  to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
+Subscribe to UX This Week newsletter to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
+
+## Video of the week
+
+[**Conducting UX Research and Testing Prototypes \| Google UX Design Certificate**](https://youtu.be/PZ2hchA4Jvg/?ref=thegoutamdey)  
+Learn how to conduct research with a usability study to test your prototype. Once you have your research findings, use the insights to iterate on and improve your prototype, as well as share and promote your research insights.
+
+{% embed url="https://youtu.be/PZ2hchA4Jvg" %}
+
+\*\*\*\*
 
