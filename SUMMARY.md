@@ -14,6 +14,7 @@
 * [UXTW - Week 17, 2021](2021/uxtw-week-17-2021.md)
 * [UXTW - Week 16, 2021](2021/uxtw-week-16-2021.md)
 * [UXTW - Week 15, 2021](2021/uxtw-week-15-2021.md)
+* [UXTW - Week 14, 2021](2021/uxtw-week-14-2021.md)
 
 ## 2020
 
