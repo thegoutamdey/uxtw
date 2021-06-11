@@ -49,3 +49,4 @@ Subscribe to UX This Week newsletter  to get weekly email full of curated articl
 [Conducting UX Research and Testing Prototypes | Google UX Design Certificate](https://youtu.be/PZ2hchA4Jvg/?ref=thegoutamdey)  
 Learn how to conduct research with a usability study to test your prototype. Once you have your research findings, use the insights to iterate on and improve your prototype, as well as share and promote your research insights. 
 
+
