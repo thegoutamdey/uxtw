@@ -8,6 +8,7 @@ description: >-
 
 
 
+
 ## Articles of the week
 
 [**usability Report Card is broken**](https://medium.com/ux-research-journal/why-i-dont-give-out-report-cards-b53262f5d8c9/?ref=thegoutamdey)  
