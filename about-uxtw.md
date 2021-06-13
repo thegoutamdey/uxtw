@@ -18,3 +18,9 @@ He also maintains a free UX starting guide at [https://thegoutamdey.gitbook.io/u
 
 "No Hurry no Pause" - learning has become a continuous process, and just like your portfolio of shares you need to research stocks to add to your basket you needs to find your education bite as well. I am trying to share my weekly eduction bite to all my subscribers on UX design, Design thinking, Product Design etc.  Sign up for my free weekly newsletter, [**UX This Week**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)**.** Each week you’ll receive five best articles and three digital product which worth a try. This newsletter will help you to going through the best of the week to learn from and help you to move forward in your career with an educated mind and for a  happier future.
 
+## Latest Tweets
+
+{% embed url="https://twitter.com/uxtw2" %}
+
+
+
