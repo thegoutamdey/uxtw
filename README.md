@@ -30,7 +30,7 @@ Subscribe to _**UX This Week newsletter**_ to get weekly email full of curated a
 
 ## Products of the week
 
-**UXTimeline**  
+\*\*\*\*[**UXTimeline**](http://uxtimeline.com/?ref=uxthisweek)  
 Check how some of today's best companies have evolved.
 
 [**Softr**](https://www.softr.io/?ref=uxthisweek)  
