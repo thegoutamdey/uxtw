@@ -6,46 +6,45 @@ description: >-
 
 # UX This Week
 
+**Follow us on twitter** [**@uxtw2**](https://twitter.com/uxtw2)\*\*\*\*
+
 ![](.gitbook/assets/uxtw-banner-2021-25.jpg)
 
 ## Articles of the week
 
-\*\*\*\*[**Archetypes for creative leadership**](https://airbnb.design/archetypes-for-creative-leadership/?ref=uxthisweek)  
-“Leadership” is a tricky notion, especially in a business context. Catch your average creative professional in a moment of candor and don’t be surprised if they tell you that “leadership” feels like a vague idea hackneyed by business and self-help books. A term best left in quotes. What’s worse, during performance reviews, we’re asked to quantify leadership—a thing that feels inherently qualitative. It’s a recipe for skepticism and reluctant assent.
+\*\*\*\*[**Capturing UX project requirements**](https://blog.prototypr.io/how-to-capture-ux-project-requirements-e1ba9b5174bb/?ref=uxthisweek)  
+Requirements are about answering as many questions as you can, and writing those answers down in such a way that they are actionable and trackable.
 
-\*\*\*\*[**Introduction to design tokens**](https://specifyapp.com/blog/introduction-to-design-tokens/?ref=uxthisweek)  
-****This article focuses on the why's and the what's of design tokens. I won't share with you how to create, name, transform or distribute them within your design system.
+\*\*\*\*[**The benefits of applying an experience-driven mindset**](https://www.redhat.com/en/blog/stronger-ux-and-beyond-benefits-applying-experience-driven-mindset?term=26211/?ref=uxthisweek) **at Red Hat**  
+In a UXD context, this means putting our users first throughout our design process from ideation to final implementation. 
 
-\*\*\*\*[**Inclusive Design: How to Put Yourself Into One’s Shoes**](https://cadabrastudio.medium.com/inclusive-design-how-to-put-yourself-into-ones-shoes-3e28bc283f16/?ref=uxthisweek)  
-Inclusive design is about enabling people with specific impairments to use a particular product in various environments. It teaches designers how to put themselves into different pairs of shoes.
+[**The evolution of UX challenges**](https://uxdesign.cc/the-evolution-of-ux-challenges-5e1748b82ede/?ref=uxthisweek)  
+UX design is not a one-man show. We have to work closely with fellow designers, engineers, researchers, managers, business stakeholders, and clients. And while our ultimate goal is to make our users happy, in many cases the hardest part is that we have to make compromises.
 
-\*\*\*\*[**Reducing Design friction: Why a dev might be the best hire for your design team**](https://medium.com/designing-atlassian/reducing-design-friction-why-a-dev-might-be-your-best-design-team-hire-448e983d3ca9/?ref=uxthisweek)  
-Repetition is the antithesis of fun. The games industry has known this for years — grinding out the same thing over and over for the same reward creates diminishing dopamine responses until it becomes aggravating. Conversely, performing an action that amplifies your reward is immensely satisfying.
+\*\*\*\*[**Collaborative flowcharting: What it is**](https://www.invisionapp.com/inside-design/collaborative-flowcharting/?itm_campaign=default&itm_source=homefeatured&itm_medium=website&itm_content=default)  
+The flowchart has been around since 1921, when Frank Gilberth, introduced the first flowchart to graphically represent a process. His chart aimed to improve efficiencies, particularly for a business’s production, accounting, and finance, and used a set of shapes to show specific actions. Gilbirth’s approach became a widely accepted practice for clearly mapping data flow and operations in early computer programming.
 
-\*\*\*\*[**A Blueprint for Designing Inclusive AR/VR Experiences**](https://medium.com/facebook-design/a-blueprint-for-designing-inclusive-ar-vr-experiences-6d5c6264dc14/?ref=uxthisweek)  
-We’re excited to share this foundational thinking that became helpful in the early process of designing VR apps. You can see some of this thinking in one VR app, Facebook Horizon, and in its comfort and safety features in particular. Here we’ll frame some of our key learnings on how designers might make VR spaces more inclusive.
+\*\*\*\*[**UX Strategy: How To Research & Create One Effectively**](https://www.uxpin.com/studio/ux-design/the-11-minute-guide-to-bulletproof-ux-strategy/?ref=uxthisweek)  
+A UX strategy should lay out the ideal user interaction with every aspect of a digital product. It should also prioritize what steps are needed to execute the strategy..
 
 [**UXTW**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)  
 Subscribe to _**UX This Week newsletter**_ to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
 
 ## Products of the week
 
-\*\*\*\*[**UXTimeline**](http://uxtimeline.com/?ref=uxthisweek)  
-Check how some of today's best companies have evolved.
+\*\*\*\*[**WinUI**](https://microsoft.github.io/microsoft-ui-xaml/?ref=uxthisweek)  
+WinUI makes it easy to build modern, seamless UIs that feel natural to use on every Windows device. It embodies Fluent Design to enable intuitive, accessible, and powerful experiences and the latest user interface patterns.
 
-[**Softr**](https://www.softr.io/?ref=uxthisweek)  
-Build web apps & portals from Airtable, no code required.
+[**PWAbuilder**](https://www.pwabuilder.com/?ref=uxthisweek)  
+Ship your PWA to the app stores at lightning speed. PWAs are moving forward fast, learn about new web APIs, store readiness, and more!
 
-\*\*\*\*[**Best Design Tool Picker**](https://bestdesignsoftware.io/?ref=uxthisweek)  
-There are too many design tools to choose from! Find out which one best fits your needs with this ultimate design tool picker.
+\*\*\*\*[**WebView2**](https://developer.microsoft.com/en-us/microsoft-edge/webview2/?ref=uxthisweek)  
+Embed web content \(HTML, CSS, and JavaScript\) in your native applications with Microsoft Edge WebView2.
 
 [**UXTW**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)  
 Subscribe to UX This Week newsletter to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
 
-## Portfolio of the week
-
-\*\*\*\*[**Clair Kim**](https://www.clairekim.io/?ref=uxthisweek)  
-a marketer-turned-product designer who understands how design can better shape technology and push the business forward. I'm passionate about people and understanding their needs. Previously @IBM, currently designing @Project ANT, incoming UX Designer @Cisco.
+## 
 
 \*\*\*\*
 
