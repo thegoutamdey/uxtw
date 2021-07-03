@@ -1,7 +1,7 @@
 ---
 description: >-
-  Curated weekly newsletter on User experience (UX) design, Design Thinking and
-  Product Design.
+  Curated weekly newsletter on User experience (UX) design,  Product Design and
+  Service Design.
 ---
 
 # UX This Week
