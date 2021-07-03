@@ -8,38 +8,39 @@ description: >-
 
 **Follow us on twitter** [**@uxtw2**](https://twitter.com/uxtw2)\*\*\*\*
 
-![](.gitbook/assets/uxtw-banner-2021-25.jpg)
+![](.gitbook/assets/uxtw-banner-2021-26.jpg)
 
 ## Articles of the week
 
-\*\*\*\*[**Capturing UX project requirements**](https://blog.prototypr.io/how-to-capture-ux-project-requirements-e1ba9b5174bb/?ref=uxthisweek)  
-Requirements are about answering as many questions as you can, and writing those answers down in such a way that they are actionable and trackable.
+\*\*\*\*[**Emotion-Focused Toplines**](https://medium.com/emotion-centered-design/emotion-focused-toplines-2d5f10a1c324/?ref=uxthisweek)  
+It is an artifact that helps the people you work with see the successes, challenges, opportunities, and pressing considerations from both a logistical and compassionate lens.
 
-\*\*\*\*[**The benefits of applying an experience-driven mindset**](https://www.redhat.com/en/blog/stronger-ux-and-beyond-benefits-applying-experience-driven-mindset?term=26211/?ref=uxthisweek) **at Red Hat**  
-In a UXD context, this means putting our users first throughout our design process from ideation to final implementation. 
+\*\*\*\*[**Happy to Help: How We Design for Customer Support**](https://spotify.design/article/happy-to-help-how-we-design-for-customer-support/?ref=uxthisweek)  
+****Sometimes things are not working, not clear, or not built to address a wide-enough variety of needs. That’s why our Support team exists — to make sure people can get the help they need, when they need it.. 
 
-[**The evolution of UX challenges**](https://uxdesign.cc/the-evolution-of-ux-challenges-5e1748b82ede/?ref=uxthisweek)  
-UX design is not a one-man show. We have to work closely with fellow designers, engineers, researchers, managers, business stakeholders, and clients. And while our ultimate goal is to make our users happy, in many cases the hardest part is that we have to make compromises.
+\*\*\*\*[**Is Zombie Scrolling Syndrome Zapping Your Child’s Health?**](https://www.mcafee.com/blogs/consumer/family-safety/zombie-scrolling-syndrome-zapping-childs-health/?ref=uxthisweek)  
+ If your child has a constant yawn, exceptional moodiness, and unusual stress \(or even apathy\) toward his or her school load, it’s possible he or she may have _Zombie Scrolling Syndrome \(ZSS\)_. Yes, we coined that term for chronic late-night phone scrollers, but it’s more than legit.
 
-\*\*\*\*[**Collaborative flowcharting: What it is**](https://www.invisionapp.com/inside-design/collaborative-flowcharting/?itm_campaign=default&itm_source=homefeatured&itm_medium=website&itm_content=default)  
-The flowchart has been around since 1921, when Frank Gilberth, introduced the first flowchart to graphically represent a process. His chart aimed to improve efficiencies, particularly for a business’s production, accounting, and finance, and used a set of shapes to show specific actions. Gilbirth’s approach became a widely accepted practice for clearly mapping data flow and operations in early computer programming.
+\*\*\*\*[**Designing Friction For A Better User Experience**](https://www.smashingmagazine.com/2018/01/friction-ux-design-tool/?ref=uxthisweek)  
+In experience design, friction is usually the opposite of being intuitive or effortless. However, that doesn’t mean that it’s always bad for the users. In this article, you’ll learn when and how friction can be an efficient tool to actually design better experiences.
 
-\*\*\*\*[**UX Strategy: How To Research & Create One Effectively**](https://www.uxpin.com/studio/ux-design/the-11-minute-guide-to-bulletproof-ux-strategy/?ref=uxthisweek)  
-A UX strategy should lay out the ideal user interaction with every aspect of a digital product. It should also prioritize what steps are needed to execute the strategy..
+\*\*\*\*[**The fallacy of easy**](https://uxdesign.cc/the-fallacy-of-easy-a89ef864759b/?ref=uxthisweek)  
+What if Facebook required everyone to open links before they share them?  
+What if users were only able to share one external link per day?
 
 [**UXTW**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)  
 Subscribe to _**UX This Week newsletter**_ to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
 
 ## Products of the week
 
-\*\*\*\*[**WinUI**](https://microsoft.github.io/microsoft-ui-xaml/?ref=uxthisweek)  
-WinUI makes it easy to build modern, seamless UIs that feel natural to use on every Windows device. It embodies Fluent Design to enable intuitive, accessible, and powerful experiences and the latest user interface patterns.
+\*\*\*\*[**Spotify Design's Remote Design Sprint Template**](https://www.figma.com/community/file/961940615273396965/?ref=uxthisweek)  
+You don’t have to start from scratch, here’s a Spotify Design Figma file modified into a template for any distributed team to use for their next remote design sprint.
 
-[**PWAbuilder**](https://www.pwabuilder.com/?ref=uxthisweek)  
-Ship your PWA to the app stores at lightning speed. PWAs are moving forward fast, learn about new web APIs, store readiness, and more!
+\*\*\*\*[**Blacklight**](https://themarkup.org/blacklight/?ref=uxthisweek)  
+Who is peeking over your shoulder while you work, watch videos, learn, explore, and shop on the internet? Enter the address of any website, and Blacklight will scan it and reveal the specific user-tracking technologies on the site—and who’s getting your data. You may be surprised at what you learn.
 
-\*\*\*\*[**WebView2**](https://developer.microsoft.com/en-us/microsoft-edge/webview2/?ref=uxthisweek)  
-Embed web content \(HTML, CSS, and JavaScript\) in your native applications with Microsoft Edge WebView2.
+\*\*\*\*[**A scorecard for creating human-centered, anxiety-free solutions**](https://caseorganic.medium.com/is-your-product-designed-to-be-calm-cdde5039cca5/?ref=uxthisweek)  
+Making a good product is an important responsibility, especially if the product is close enough to someone that it can be the difference between life and death.
 
 [**UXTW**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)  
 Subscribe to UX This Week newsletter to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
