@@ -6,25 +6,24 @@ description: >-
 
 # UX This Week
 
-![](.gitbook/assets/uxtw-banner-2021-26.jpg)
+![](.gitbook/assets/uxtw-banner-2021-27.jpg)
 
 ## Articles of the week
 
-\*\*\*\*[**Emotion-Focused Toplines**](https://medium.com/emotion-centered-design/emotion-focused-toplines-2d5f10a1c324/?ref=uxthisweek)  
-It is an artifact that helps the people you work with see the successes, challenges, opportunities, and pressing considerations from both a logistical and compassionate lens.
+[**Problems versus dilemmas: The complex trade-offs produced by social settings**](https://design.facebook.com/stories/problems-versus-dilemmas-the-complex-trade-offs-produced-by-social-settings/?ref=uxthisweek)  
+People experiencing impaired hearing do not benefit from audio in our video products. Thankfully, there’s a discrete solution: captioning.
 
-\*\*\*\*[**Happy to Help: How We Design for Customer Support**](https://spotify.design/article/happy-to-help-how-we-design-for-customer-support/?ref=uxthisweek)  
-****Sometimes things are not working, not clear, or not built to address a wide-enough variety of needs. That’s why our Support team exists — to make sure people can get the help they need, when they need it.. 
+\*\*\*\*[**3 practical cheat sheets for designing attention grabbing UIs**](https://uxdesign.cc/3-practical-cheat-sheets-for-designing-attention-grabbing-uis-318e588bd864/?ref=uxthisweek)  
+****To be able to design attention-grabbing products, firstly we need to understand where and when we have the biggest chance to hook the users. 
 
-\*\*\*\*[**Is Zombie Scrolling Syndrome Zapping Your Child’s Health?**](https://www.mcafee.com/blogs/consumer/family-safety/zombie-scrolling-syndrome-zapping-childs-health/?ref=uxthisweek)  
- If your child has a constant yawn, exceptional moodiness, and unusual stress \(or even apathy\) toward his or her school load, it’s possible he or she may have _Zombie Scrolling Syndrome \(ZSS\)_. Yes, we coined that term for chronic late-night phone scrollers, but it’s more than legit.
+\*\*\*\*[**Thoughts on Skeuomorphic Menu Systems**](https://medium.com/@charliedeets/thoughts-on-skeuomorphic-menu-systems-9f02b1dd173f)  
+The reliance on physical space for these transactions adds a realism to the idea that the player acquired something.
 
-\*\*\*\*[**Designing Friction For A Better User Experience**](https://www.smashingmagazine.com/2018/01/friction-ux-design-tool/?ref=uxthisweek)  
-In experience design, friction is usually the opposite of being intuitive or effortless. However, that doesn’t mean that it’s always bad for the users. In this article, you’ll learn when and how friction can be an efficient tool to actually design better experiences.
+\*\*\*\*[**Designing Ad Experiences**](https://spotify.design/article/designing-ad-experiences)  
+Are we providing enough transparency about the promotions our users receive? What would make this experience more engaging, relevant, and in tune with user intent?.
 
-\*\*\*\*[**The fallacy of easy**](https://uxdesign.cc/the-fallacy-of-easy-a89ef864759b/?ref=uxthisweek)  
-What if Facebook required everyone to open links before they share them?  
-What if users were only able to share one external link per day?
+\*\*\*\*[**Absolutely FAB**](https://design.google/library/floating-action-button/)  
+So much of Material Design was driven by the idea of making our UIs easier to navigate for users,” says Design Lead Bethany Fong, who worked on Material’s interaction design for smaller components: anything clickable or touchable that helped with a function on the screen.
 
 {% hint style="info" %}
 Join us on Social Platforms.   
@@ -33,17 +32,19 @@ Join us on Social Platforms.
 
 ## Products of the week
 
-\*\*\*\*[**Spotify Design's Remote Design Sprint Template**](https://www.figma.com/community/file/961940615273396965/?ref=uxthisweek)  
-You don’t have to start from scratch, here’s a Spotify Design Figma file modified into a template for any distributed team to use for their next remote design sprint.
+\*\*\*\*[**GlassUI Generator**](https://ui.glass/generator/?ref=uxthisweek)  
+Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.
 
-\*\*\*\*[**Blacklight**](https://themarkup.org/blacklight/?ref=uxthisweek)  
-Who is peeking over your shoulder while you work, watch videos, learn, explore, and shop on the internet? Enter the address of any website, and Blacklight will scan it and reveal the specific user-tracking technologies on the site—and who’s getting your data. You may be surprised at what you learn.
+\*\*\*\*[**Undesign**](https://undesign.learn.uno/?ref=uxthisweek)  
+Collection of free design tools and resources for makers, developers and designers.
 
-\*\*\*\*[**A scorecard for creating human-centered, anxiety-free solutions**](https://caseorganic.medium.com/is-your-product-designed-to-be-calm-cdde5039cca5/?ref=uxthisweek)  
-Making a good product is an important responsibility, especially if the product is close enough to someone that it can be the difference between life and death.
+\*\*\*\*[**DesignerHunt**](https://www.designerhunt.io/?ref=uxthisweek)  
+A place to follow & learn from awesome designers, connect friends, hunt hire freelancers for your projects.
 
 {% hint style="info" %}
 Join us on Social Platforms.  
 [**Twitter**](https://twitter.com/uxtw2) **\|** [**Facebook**](https://www.facebook.com/webusabilityandux) **\|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **\|** [**Slack**](https://join.slack.com/t/uxthisweek/shared_invite/zt-szpdweo1-d78hso8FppFcI68Xue_9Yw) **\|** [**Newsletter**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)\*\*\*\*
 {% endhint %}
+
+
 
