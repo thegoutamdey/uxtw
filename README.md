@@ -6,7 +6,7 @@ description: >-
 
 # UX This Week
 
-![ Twitter \| Facebook \| Linkedin \| Slack \| Newsletter](.gitbook/assets/uxtw-banner-2021-26.jpg)
+![](.gitbook/assets/uxtw-banner-2021-26.jpg)
 
 ## Articles of the week
 
@@ -28,7 +28,7 @@ What if users were only able to share one external link per day?
 
 {% hint style="info" %}
 Join us on Social Platforms.   
-[**Twitter**](https://twitter.com/uxtw2) **\|** [**Facebook**](https://www.facebook.com/webusabilityandux) **\|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **\|** [**Slack**](https://join.slack.com/t/newworkspace-jy07942/shared_invite/zt-szpdweo1-d78hso8FppFcI68Xue_9Yw) **\|** [**Newsletter**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)\*\*\*\*
+[**Twitter**](https://twitter.com/uxtw2) **\|** [**Facebook**](https://www.facebook.com/webusabilityandux) **\|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **\|** [**Slack**](https://join.slack.com/t/uxthisweek/shared_invite/zt-szpdweo1-d78hso8FppFcI68Xue_9Yw) **\| Newsletter**
 {% endhint %}
 
 ## Products of the week
@@ -44,6 +44,6 @@ Making a good product is an important responsibility, especially if the product 
 
 {% hint style="info" %}
 Join us on Social Platforms.  
-[**Twitter**](https://twitter.com/uxtw2) **\|** [**Facebook**](https://www.facebook.com/webusabilityandux) **\|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **\|** [**Slack**](https://join.slack.com/t/newworkspace-jy07942/shared_invite/zt-szpdweo1-d78hso8FppFcI68Xue_9Yw) **\|** [**Newsletter**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)\*\*\*\*
+[**Twitter**](https://twitter.com/uxtw2) **\|** [**Facebook**](https://www.facebook.com/webusabilityandux) **\|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **\|** [**Slack**](https://join.slack.com/t/uxthisweek/shared_invite/zt-szpdweo1-d78hso8FppFcI68Xue_9Yw) **\|** [**Newsletter**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)\*\*\*\*
 {% endhint %}
 
