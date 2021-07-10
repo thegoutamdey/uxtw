@@ -6,7 +6,7 @@ description: >-
 
 # UX This Week
 
-**Follow us on twitter** [**@uxtw2**](https://twitter.com/uxtw2)\*\*\*\*
+Join us on Social Platforms. [**Twitter**](https://twitter.com/uxtw2) **\|** [**Facebook**](https://www.facebook.com/webusabilityandux) **\|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **\|** [**Slack**](https://join.slack.com/t/newworkspace-jy07942/shared_invite/zt-szpdweo1-d78hso8FppFcI68Xue_9Yw) **\|** [**Newsletter**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)\*\*\*\*
 
 ![](.gitbook/assets/uxtw-banner-2021-26.jpg)
 
@@ -28,8 +28,10 @@ In experience design, friction is usually the opposite of being intuitive or eff
 What if Facebook required everyone to open links before they share them?  
 What if users were only able to share one external link per day?
 
-[**UXTW**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)  
-Subscribe to _**UX This Week newsletter**_ to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
+{% hint style="info" %}
+Join us on Social Platforms.   
+[**Twitter**](https://twitter.com/uxtw2) **\|** [**Facebook**](https://www.facebook.com/webusabilityandux) **\|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **\|** [**Slack**](https://join.slack.com/t/newworkspace-jy07942/shared_invite/zt-szpdweo1-d78hso8FppFcI68Xue_9Yw) **\|** [**Newsletter**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)\*\*\*\*
+{% endhint %}
 
 ## Products of the week
 
@@ -42,10 +44,8 @@ Who is peeking over your shoulder while you work, watch videos, learn, explore, 
 \*\*\*\*[**A scorecard for creating human-centered, anxiety-free solutions**](https://caseorganic.medium.com/is-your-product-designed-to-be-calm-cdde5039cca5/?ref=uxthisweek)  
 Making a good product is an important responsibility, especially if the product is close enough to someone that it can be the difference between life and death.
 
-[**UXTW**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)  
-Subscribe to UX This Week newsletter to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
-
-## 
-
-\*\*\*\*
+{% hint style="info" %}
+Join us on Social Platforms.  
+[**Twitter**](https://twitter.com/uxtw2) **\|** [**Facebook**](https://www.facebook.com/webusabilityandux) **\|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **\|** [**Slack**](https://join.slack.com/t/newworkspace-jy07942/shared_invite/zt-szpdweo1-d78hso8FppFcI68Xue_9Yw) **\|** [**Newsletter**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123&id=0009036f95)\*\*\*\*
+{% endhint %}
 
