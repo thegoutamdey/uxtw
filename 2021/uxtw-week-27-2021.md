@@ -8,8 +8,6 @@ description: >-
 
 ![](../.gitbook/assets/uxtw-banner-2021-27.jpg)
 
-
-
 ## Articles of the week
 
 [**Problems versus dilemmas: The complex trade-offs produced by social settings**](https://design.facebook.com/stories/problems-versus-dilemmas-the-complex-trade-offs-produced-by-social-settings/?ref=uxthisweek)  
