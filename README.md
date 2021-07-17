@@ -6,24 +6,24 @@ description: >-
 
 # UX This Week
 
-![](.gitbook/assets/uxtw-banner-2021-27.jpg)
+![](.gitbook/assets/uxtw-banner-2021-28.jpg)
 
 ## Articles of the week
 
-[**Problems versus dilemmas: The complex trade-offs produced by social settings**](https://design.facebook.com/stories/problems-versus-dilemmas-the-complex-trade-offs-produced-by-social-settings/?ref=uxthisweek)  
-People experiencing impaired hearing do not benefit from audio in our video products. Thankfully, there’s a discrete solution: captioning.
+\*\*\*\*[**Why you should work at a non-design driven company**](https://vanschneider.com/blog/why-you-should-work-at-a-non-design-company/)  
+Most designers I know, in particular those in their early career, want to work for a company already known for design.
 
-\*\*\*\*[**3 practical cheat sheets for designing attention grabbing UIs**](https://uxdesign.cc/3-practical-cheat-sheets-for-designing-attention-grabbing-uis-318e588bd864/?ref=uxthisweek)  
-****To be able to design attention-grabbing products, firstly we need to understand where and when we have the biggest chance to hook the users. 
+\*\*\*\*[**Creating Usability with Motion: The UX in Motion Manifesto**](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)  
+****The 12 Principles of UX in Motion,’ and they can be stacked and combined synergistically in a myriad of innovative ways. 
 
-\*\*\*\*[**Thoughts on Skeuomorphic Menu Systems**](https://medium.com/@charliedeets/thoughts-on-skeuomorphic-menu-systems-9f02b1dd173f)  
-The reliance on physical space for these transactions adds a realism to the idea that the player acquired something.
+\*\*\*\*[**A brief history of interaction design**](https://uxdesign.cc/where-did-this-interaction-come-from-a-brief-history-of-interaction-design-ebcc8c278ae7)  
+In a dynamic system, the output changes with time if the system is not in a state of equilibrium..
 
-\*\*\*\*[**Designing Ad Experiences**](https://spotify.design/article/designing-ad-experiences)  
-Are we providing enough transparency about the promotions our users receive? What would make this experience more engaging, relevant, and in tune with user intent?.
+\*\*\*\*[**Growing a Distributed Product Design Team**](https://medium.com/spotify-design/growing-a-distributed-product-design-team-3563659ee2e6)  
+How do we achieve our original goal of creating a highly collaborative and efficient product design team while everyone is remote?.
 
-\*\*\*\*[**Absolutely FAB**](https://design.google/library/floating-action-button/)  
-So much of Material Design was driven by the idea of making our UIs easier to navigate for users,” says Design Lead Bethany Fong, who worked on Material’s interaction design for smaller components: anything clickable or touchable that helped with a function on the screen.
+\*\*\*\*[**Leadership without management**](https://www.intercom.com/blog/product-design-ic-career-path/?ref=uxthisweek)  
+Many designers become managers for the wrong reasons. Often, they’re incentivized by their companies to become managers to gain greater impact, influence, and compensation.
 
 {% hint style="info" %}
 Join us on Social Platforms.   
@@ -32,14 +32,14 @@ Join us on Social Platforms.
 
 ## Products of the week
 
-\*\*\*\*[**GlassUI Generator**](https://ui.glass/generator/?ref=uxthisweek)  
-Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.
+\*\*\*\*[**Spaceli**](https://spaceli.io/?ref=uxthisweek)  
+Turn Google Docs into a knowledge base. Organize Google Docs in a way where people can find them..
 
-\*\*\*\*[**Undesign**](https://undesign.learn.uno/?ref=uxthisweek)  
-Collection of free design tools and resources for makers, developers and designers.
+\*\*\*\*[**UXProof**](https://uxproof.standuply.com/?ref=uxthisweek)  
+Gather experts' feedback on your design prototype.
 
-\*\*\*\*[**DesignerHunt**](https://www.designerhunt.io/?ref=uxthisweek)  
-A place to follow & learn from awesome designers, connect friends, hunt hire freelancers for your projects.
+\*\*\*\*[**TypeDream**](https://typedream.com/?ref=uxthisweek)  
+Typedream helps you build a beautiful website using a simple interface.
 
 {% hint style="info" %}
 Join us on Social Platforms.  
