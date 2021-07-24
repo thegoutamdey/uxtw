@@ -6,24 +6,24 @@ description: >-
 
 # UX This Week
 
-![](.gitbook/assets/uxtw-banner-2021-28.jpg)
+![](.gitbook/assets/uxtw-banner-2021-29.jpg)
 
 ## Articles of the week
 
-\*\*\*\*[**Why you should work at a non-design driven company**](https://vanschneider.com/blog/why-you-should-work-at-a-non-design-company/)  
-Most designers I know, in particular those in their early career, want to work for a company already known for design.
+\*\*\*\*[**Are UI Tips the New Clickbait for Designers?**](https://prototypr.io/post/are-ui-ux-tips-the-new-clickbait-for-designers%E2%9C%A8/?ref=uxthisweek)  
+Content whose main purpose is to attract attention and encourage visitors to click on a link to a particular web page.
 
-\*\*\*\*[**Creating Usability with Motion: The UX in Motion Manifesto**](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)  
-****The 12 Principles of UX in Motion,’ and they can be stacked and combined synergistically in a myriad of innovative ways. 
+\*\*\*\*[**Work backwards**](https://jamiemill.com/blog/work-backwards/?ref=uxthisweek)  
+**** If you work forwards you anchor your plans to the start rather than end point. You might plan the first few steps clearly then hope to adapt as you go. Or you might take a standard process—[double diamond](https://www.designcouncil.org.uk/news-opinion/double-diamond-universally-accepted-depiction-design-process) or [design sprint](https://www.thesprintbook.com/how)—and see where it takes you.
 
-\*\*\*\*[**A brief history of interaction design**](https://uxdesign.cc/where-did-this-interaction-come-from-a-brief-history-of-interaction-design-ebcc8c278ae7)  
-In a dynamic system, the output changes with time if the system is not in a state of equilibrium..
+\*\*\*\*[**Images are hard**](https://css-tricks.com/images-are-hard/?ref=uxthisweek)  
+Know enough about image formats off the bat, so that you can use formats like SVG when appropropriate.
 
-\*\*\*\*[**Growing a Distributed Product Design Team**](https://medium.com/spotify-design/growing-a-distributed-product-design-team-3563659ee2e6)  
-How do we achieve our original goal of creating a highly collaborative and efficient product design team while everyone is remote?.
+\*\*\*\*[**Principle of Closure in Visual Design**](https://www.nngroup.com/articles/principle-closure/?ref=uxthisweek)  
+ The **principle of closure** states that people will fill in blanks to perceive a complete object whenever an external stimulus partially matches that object.
 
-\*\*\*\*[**Leadership without management**](https://www.intercom.com/blog/product-design-ic-career-path/?ref=uxthisweek)  
-Many designers become managers for the wrong reasons. Often, they’re incentivized by their companies to become managers to gain greater impact, influence, and compensation.
+\*\*\*\*[**Talks That Shaped My Philosophies**](https://davidhoang.substack.com/p/talks-that-shaped-my-philosophies?ref=uxthisweek)  
+Talks that inspired how I approach work as a designer, operator, investor, and entrepreneur.
 
 {% hint style="info" %}
 Join us on Social Platforms.   
@@ -32,14 +32,14 @@ Join us on Social Platforms.
 
 ## Products of the week
 
-\*\*\*\*[**Spaceli**](https://spaceli.io/?ref=uxthisweek)  
-Turn Google Docs into a knowledge base. Organize Google Docs in a way where people can find them..
+\*\*\*\*[**Cavalri**](https://cavalry.scenegroup.co/?ref=uxthisweek)  
+Created by animators, for animators — Cavalry makes 2d animation smarter, easier and faster to produce. Design in real-time for advertising, mobile, data visualisation, web, broadcast, ui, generative art, experiential, games and more.
 
-\*\*\*\*[**UXProof**](https://uxproof.standuply.com/?ref=uxthisweek)  
-Gather experts' feedback on your design prototype.
+\*\*\*\*[**Slideflow**](https://www.slideflow.me/?ref=uxthisweek)  
+Turn your Google Slides into a website in seconds..
 
-\*\*\*\*[**TypeDream**](https://typedream.com/?ref=uxthisweek)  
-Typedream helps you build a beautiful website using a simple interface.
+\*\*\*\*[**Product Checklist**](https://www.productchecklist.co/?ref=uxthisweek)  
+A collection of best practices for building products —from idea to launch.
 
 {% hint style="info" %}
 Join us on Social Platforms.  
