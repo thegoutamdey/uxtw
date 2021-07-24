@@ -6,6 +6,7 @@
 
 ## 2021
 
+* [UXTW - Week 28, 2021](2021/uxtw-week-28-2021.md)
 * [UXTW - Week 27, 2021](2021/uxtw-week-27-2021.md)
 * [UXTW - Week 26, 2021](2021/uxtw-week-26-2021.md)
 * [UXTW - Week 25, 2021](2021/uxtw-week-25-2021.md)
