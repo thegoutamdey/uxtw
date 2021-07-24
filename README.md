@@ -8,6 +8,8 @@ description: >-
 
 ![](.gitbook/assets/uxtw-banner-2021-29.jpg)
 
+## UX This Week Issue \#29
+
 ## Articles of the week
 
 \*\*\*\*[**Are UI Tips the New Clickbait for Designers?**](https://prototypr.io/post/are-ui-ux-tips-the-new-clickbait-for-designers%E2%9C%A8/?ref=uxthisweek)  
