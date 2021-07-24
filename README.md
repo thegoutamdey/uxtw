@@ -8,7 +8,7 @@ description: >-
 
 ![](.gitbook/assets/uxtw-banner-2021-29.jpg)
 
-## UX This Week Issue \#29
+## UXThisWeek - Issue \#29
 
 ## Articles of the week
 
