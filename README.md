@@ -6,26 +6,26 @@ description: >-
 
 # UX This Week
 
-![](.gitbook/assets/uxtw-banner-2021-29.jpg)
+![UXThisWeek newsletter, issue \#30, 2021](.gitbook/assets/uxtw-banner-2021-30.jpg)
 
-## UXThisWeek - Issue \#29
+## UXThisWeek - Issue \#30
 
 ## Articles of the week
 
-\*\*\*\*[**Are UI Tips the New Clickbait for Designers?**](https://prototypr.io/post/are-ui-ux-tips-the-new-clickbait-for-designers%E2%9C%A8/?ref=uxthisweek)  
+\*\*\*\*[**The best \(free\) resources for new UX/UI designers**](https://uxdesign.cc/the-best-free-resources-for-new-ux-ui-designers-39d73ce18bfb/?ref=uxthisweek)  
 Content whose main purpose is to attract attention and encourage visitors to click on a link to a particular web page.
 
-\*\*\*\*[**Work backwards**](https://jamiemill.com/blog/work-backwards/?ref=uxthisweek)  
-**** If you work forwards you anchor your plans to the start rather than end point. You might plan the first few steps clearly then hope to adapt as you go. Or you might take a standard process—[double diamond](https://www.designcouncil.org.uk/news-opinion/double-diamond-universally-accepted-depiction-design-process) or [design sprint](https://www.thesprintbook.com/how)—and see where it takes you.
+\*\*\*\*[**UX migration strategy for legacy applications**](https://uxdesign.cc/ux-migration-strategy-for-legacy-applications-c8bb01345404/?ref=uxthisweek)  
+****Migrating legacy systems is not merely a process of moving existing features to a new system but rather an opportunity to build a strategic system that supports your business goals and ensures adoption by existing and potentially new users.
 
-\*\*\*\*[**Images are hard**](https://css-tricks.com/images-are-hard/?ref=uxthisweek)  
-Know enough about image formats off the bat, so that you can use formats like SVG when appropropriate.
+\*\*\*\*[**On Generative Features**](https://stephenanderson.medium.com/on-generative-features-23e3ee5e3683/?ref=uxthisweek)  
+ ‘Overspecifying’ is the _‘let’s build ‘X’ specifically for ‘Y’ role’_ mindset, more likely to come from sales and marketing..
 
-\*\*\*\*[**Principle of Closure in Visual Design**](https://www.nngroup.com/articles/principle-closure/?ref=uxthisweek)  
- The **principle of closure** states that people will fill in blanks to perceive a complete object whenever an external stimulus partially matches that object.
+\*\*\*\*[**Developing an eye for design**](https://uxdesign.cc/developing-an-eye-for-design-9a276fbcd3e0/?ref=uxthisweek)  
+When you design a product you are the chef and all those details become very important..
 
-\*\*\*\*[**Talks That Shaped My Philosophies**](https://davidhoang.substack.com/p/talks-that-shaped-my-philosophies?ref=uxthisweek)  
-Talks that inspired how I approach work as a designer, operator, investor, and entrepreneur.
+\*\*\*\*[**The Top Elements for UX Designs for Digital Well Being**](https://uxplanet.org/the-top-elements-for-ux-designs-for-digital-well-being-15547466d7d8?ref=uxthisweek)  
+Ways you can incorporate elements of design that promote digital well-being for users.
 
 {% hint style="info" %}
 Join us on Social Platforms.   
@@ -34,14 +34,14 @@ Join us on Social Platforms.
 
 ## Products of the week
 
-\*\*\*\*[**Cavalri**](https://cavalry.scenegroup.co/?ref=uxthisweek)  
-Created by animators, for animators — Cavalry makes 2d animation smarter, easier and faster to produce. Design in real-time for advertising, mobile, data visualisation, web, broadcast, ui, generative art, experiential, games and more.
+\*\*\*\*[**Jitter**](https://jitter.video/?ref=uxthisweek)  
+**Jitter** is an easy-to-use animation tool that runs in the browser. .
 
-\*\*\*\*[**Slideflow**](https://www.slideflow.me/?ref=uxthisweek)  
-Turn your Google Slides into a website in seconds..
+\*\*\*\*[**Pixelayers** ](https://pixelayers.com/?ref=uxthisweek)  
+Full fledged video editor, enables users to build/edit videos quickly.
 
-\*\*\*\*[**Product Checklist**](https://www.productchecklist.co/?ref=uxthisweek)  
-A collection of best practices for building products —from idea to launch.
+\*\*\*\*[**Reality.Tools**](https://www.reality.tools/?ref=uxthisweek)  
+Design, build and ship products faster with our visuals and assets. No more ugly pixels.
 
 {% hint style="info" %}
 Join us on Social Platforms.  
