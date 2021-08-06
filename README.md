@@ -6,26 +6,26 @@ description: >-
 
 # UX This Week
 
-![UXThisWeek newsletter, issue \#30, 2021](.gitbook/assets/uxtw-banner-2021-30.jpg)
+![](.gitbook/assets/uxtw-banner-2021-31.jpg)
 
-## UXThisWeek - Issue \#30
+## UXThisWeek - Issue \#31
 
 ## Articles of the week
 
-\*\*\*\*[**The best \(free\) resources for new UX/UI designers**](https://uxdesign.cc/the-best-free-resources-for-new-ux-ui-designers-39d73ce18bfb/?ref=uxthisweek)  
-Content whose main purpose is to attract attention and encourage visitors to click on a link to a particular web page.
+\*\*\*\*[**8 strategies to help your UX portfolio stand out from the crowd**  
+](https://bootcamp.uxdesign.cc/8-strategies-to-help-your-ux-portfolio-stand-out-from-the-crowd-20fa1a59e102/?ref=uxthisweek)Creating a strong portfolio is a worthwhile investment and a definite foot in the door to your next UX role. Your portfolio is one of the most important design projects you will ever work on.
 
-\*\*\*\*[**UX migration strategy for legacy applications**](https://uxdesign.cc/ux-migration-strategy-for-legacy-applications-c8bb01345404/?ref=uxthisweek)  
-****Migrating legacy systems is not merely a process of moving existing features to a new system but rather an opportunity to build a strategic system that supports your business goals and ensures adoption by existing and potentially new users.
+\*\*\*\*[**10 Simple Tips to Improve User Testing**  
+](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek) Regular user feedback should be at the heart of _UX design_ process.
 
-\*\*\*\*[**On Generative Features**](https://stephenanderson.medium.com/on-generative-features-23e3ee5e3683/?ref=uxthisweek)  
- ‘Overspecifying’ is the _‘let’s build ‘X’ specifically for ‘Y’ role’_ mindset, more likely to come from sales and marketing..
+\*\*\*\*[**A process for solving workflow design problems**  
+](https://ux.shopify.com/a-process-for-solving-workflow-design-problems-cdd1187a3d83/?ref=uxthisweek) More importantly, the feature was difficult to find. This led to some users assuming that changing their email address would also transfer the store ownership.
 
-\*\*\*\*[**Developing an eye for design**](https://uxdesign.cc/developing-an-eye-for-design-9a276fbcd3e0/?ref=uxthisweek)  
-When you design a product you are the chef and all those details become very important..
+\*\*\*\*[**Product Discovery Playbook**  
+](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Product Discovery is an exercise in working out whether there are customers that want the product \(or feature\) you’re working on and that you can deliver a solution to them.
 
-\*\*\*\*[**The Top Elements for UX Designs for Digital Well Being**](https://uxplanet.org/the-top-elements-for-ux-designs-for-digital-well-being-15547466d7d8?ref=uxthisweek)  
-Ways you can incorporate elements of design that promote digital well-being for users.
+\*\*\*\*[**Data Is More than Numbers: Why Qualitative Data Isn’t Just Opinions**  
+](https://www.nngroup.com/articles/qualitative-rigor/?ref=uxthisweek)Systematically gathered qualitative data is a dependable method of understanding what users need, why problems occur, and how to solve them.
 
 {% hint style="info" %}
 Join us on Social Platforms.   
@@ -34,14 +34,14 @@ Join us on Social Platforms.
 
 ## Products of the week
 
-\*\*\*\*[**Jitter**](https://jitter.video/?ref=uxthisweek)  
-**Jitter** is an easy-to-use animation tool that runs in the browser. .
+\*\*\*\*[**UXflow**](https://products.ls.graphics/uxflow/?ref=uxthisweek)  
+UX Flow Wireframe Prototyping System is a huge library of mobile and web flowcharts for Sketch. According to our opinion, we selected the most necessary categories and made 450+ flowcharts for planning your projects easier and faster.
 
-\*\*\*\*[**Pixelayers** ](https://pixelayers.com/?ref=uxthisweek)  
-Full fledged video editor, enables users to build/edit videos quickly.
+\*\*\*\*[**UXTesting**](https://www.uxtesting.io/?ref=uxthisweek) ****  
+The best User Experience partner trusted by designers and researchers for efficiency, cost-effectiveness and demonstrate the profession.
 
-\*\*\*\*[**Reality.Tools**](https://www.reality.tools/?ref=uxthisweek)  
-Design, build and ship products faster with our visuals and assets. No more ugly pixels.
+\*\*\*\*[**NeverInstall**](https://neverinstall.com/?ref=uxthisweek)  
+A powerful platform for accessing desktop applications through the browser. Say goodbye to slow and laggy machines.
 
 {% hint style="info" %}
 Join us on Social Platforms.  
