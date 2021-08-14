@@ -6,26 +6,26 @@ description: >-
 
 # UX This Week
 
-![](.gitbook/assets/uxtw-banner-2021-31.jpg)
+![](.gitbook/assets/uxtw-banner-2021-32.jpg)
 
-## UXThisWeek - Issue \#31
+## UXThisWeek - Issue \#32
 
 ## Articles of the week
 
-\*\*\*\*[**8 strategies to help your UX portfolio stand out from the crowd**  
-](https://bootcamp.uxdesign.cc/8-strategies-to-help-your-ux-portfolio-stand-out-from-the-crowd-20fa1a59e102/?ref=uxthisweek)Creating a strong portfolio is a worthwhile investment and a definite foot in the door to your next UX role. Your portfolio is one of the most important design projects you will ever work on.
+\*\*\*\*[**When Critical Thinking goes wrong**](https://blog.prototypr.io/when-critical-thinking-goes-wrong-c14686e3d4ab?ref=uxthisweek)\*\*\*\*[  
+****](https://bootcamp.uxdesign.cc/8-strategies-to-help-your-ux-portfolio-stand-out-from-the-crowd-20fa1a59e102/?ref=uxthisweek)Meditation is not stopping thinking. Only until you die do your thinking stop. Meditation is about training the mind to be laid-back, stay restful, and gently pull itself back whenever it wanders.” — Ph.D. Neal Newfield.
 
-\*\*\*\*[**10 Simple Tips to Improve User Testing**  
-](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek) Regular user feedback should be at the heart of _UX design_ process.
+\*\*\*\*[**Six exercises to overcome skill plateaus as a designer**](https://uxdesign.cc/how-to-break-out-of-your-plateau-as-a-designer-7cb762d1039f?ref=uxthisweek)\*\*\*\*[  
+****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)Throughout my design career, I’ve experienced phases of plateaus and growth. Here are a few design exercises I came up with that helped me break out of those plateaus.
 
-\*\*\*\*[**A process for solving workflow design problems**  
-](https://ux.shopify.com/a-process-for-solving-workflow-design-problems-cdd1187a3d83/?ref=uxthisweek) More importantly, the feature was difficult to find. This led to some users assuming that changing their email address would also transfer the store ownership.
+\*\*\*\*[**What the Fog**](https://design.google/library/what-the-fog/?ref=uxthisweek)  
+Disequilibrium often sets in at critical shifts in our lives and careers. I felt it for the first time when I switched from being an architect to being an “experience designer” at IDEO..
 
-\*\*\*\*[**Product Discovery Playbook**  
-](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Product Discovery is an exercise in working out whether there are customers that want the product \(or feature\) you’re working on and that you can deliver a solution to them.
+\*\*\*\*[**Closing the Experience Gap**](https://airbnb.design/closing-the-experience-gap/?ref=uxthisweek)\*\*\*\*[  
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Many product teams fail to recognize that the “average user” use cases do not apply to everyone, and continuing to only prioritize this segment will create larger experience gaps on the platform.
 
-\*\*\*\*[**Data Is More than Numbers: Why Qualitative Data Isn’t Just Opinions**  
-](https://www.nngroup.com/articles/qualitative-rigor/?ref=uxthisweek)Systematically gathered qualitative data is a dependable method of understanding what users need, why problems occur, and how to solve them.
+\*\*\*\*[**2021 Scroll Survey Report**](https://web.dev/2021-scroll-survey-report/?ref=uxthisweek)\*\*\*\*[  
+****](https://www.nngroup.com/articles/qualitative-rigor/?ref=uxthisweek)2021 Scroll Survey Report plus words from the Chrome team about how this impacts priorities and plans for Chromium and the web.
 
 {% hint style="info" %}
 Join us on Social Platforms.   
@@ -34,14 +34,14 @@ Join us on Social Platforms.
 
 ## Products of the week
 
-\*\*\*\*[**UXflow**](https://products.ls.graphics/uxflow/?ref=uxthisweek)  
-UX Flow Wireframe Prototyping System is a huge library of mobile and web flowcharts for Sketch. According to our opinion, we selected the most necessary categories and made 450+ flowcharts for planning your projects easier and faster.
+\*\*\*\*[**Hexometer**](https://hexometer.com/?ref=uxthisweek)  
+The Hexometer \(HX\) algorithm assigns each website a numeric value. That value is a particular website’s HX Rank calculated by a proprietary formula using public data about the domain name, the website's technical parameters and structure.
 
-\*\*\*\*[**UXTesting**](https://www.uxtesting.io/?ref=uxthisweek) ****  
-The best User Experience partner trusted by designers and researchers for efficiency, cost-effectiveness and demonstrate the profession.
+\*\*\*\*[**bravostudio**](https://www.bravostudio.app/?ref=uxthisweek)  
+From Figma to iOS & Android app. Turn your prototypes into fully native apps instantly. No code
 
-\*\*\*\*[**NeverInstall**](https://neverinstall.com/?ref=uxthisweek)  
-A powerful platform for accessing desktop applications through the browser. Say goodbye to slow and laggy machines.
+\*\*\*\*[**relate.app**](https://relate.app/?ref=uxthisweek)  
+Design real products on the native web with your team.
 
 {% hint style="info" %}
 Join us on Social Platforms.  
