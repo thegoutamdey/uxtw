@@ -6,26 +6,26 @@ description: >-
 
 # UX This Week
 
-![](.gitbook/assets/uxtw-banner-2021-33.jpg)
+![](.gitbook/assets/uxtw-banner-2021-34.jpg)
 
-## UXThisWeek - Issue \#33
+## UXThisWeek - Issue \#34
 
 ## Articles of the week
 
-\*\*\*\*[**A guide to designing accessible, WCAG-compliant focus indicators**](https://www.sarasoueidan.com/blog/focus-indicators/?ref=uxthisweek)\*\*\*\*[  
-****](https://bootcamp.uxdesign.cc/8-strategies-to-help-your-ux-portfolio-stand-out-from-the-crowd-20fa1a59e102/?ref=uxthisweek) Unfortunately, keyboard users experience the Web in a similarly frustrating manner too often. Their equivalent of a mouse cursor is usually hidden on too many Web sites, making it almost impossible for them to navigate those sites. A keyboard user’s cursor equivalent is the **focus indicator**.
+\*\*\*\*[**Evolving by Design**  
+](https://airbnb.design/evolving-by-design/?ref=uxthisweek)Can design power a company’s evolution? That’s what Airbnb has bet on since 2008, when a three-member team of designers and an engineer set out to solve the essential problem of where to stay.
 
-\*\*\*\*[**Accessible contrast ratios and A-levels explained**](https://www.getstark.co/blog/accessible-contrast-ratios-and-a-levels-explained?ref=uxthisweek)\*\*\*\*[  
+\*\*\*\*[**The IKEA Effect — A UX Case Study**](https://uxplanet.org/the-ikea-effect-a-ux-case-study-e30fb27df5cc/?ref=uxthisweek)\*\*\*\*[  
 ****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)All about those A's — your guide to understanding and making use of the ratios that determine your accessible contrast.
 
-\*\*\*\*[**UX Principles that include Cognitive Accessibility**](https://www.ab11y.com/articles/ux-principles-that-include-cognitive-accessibility/?ref=uxthisweek)  
-Cognitive design as a practice came out of studies in user interaction with consumer products in the 1970s, and by the 80s their use was commonplace in the product design industry. Parts of these principles have transferred into the digital space as “Usability Heuristics” but they have an issue.
+\*\*\*\*[**Questions UX designers need to ask during a kick-off meeting**](https://uxdesign.cc/26-questions-ux-designers-need-to-ask-during-a-kick-off-meeting-e4095e5febaa/?ref=uxthisweek)  
+The secret weapon in a Product Designers toolkit are questions! Especially at the beginning of a project where it is important to fully understand the challenge, the current understanding \(biases\), and to ensure usability is thought about on day one.
 
-\*\*\*\*[**Case Study: Redesigning the website for ‘The Intersectional Feminist’**](https://medium.muz.li/case-study-redesigning-the-website-for-the-intersectional-feminist-8a6c9900e675?ref=uxthisweek)\*\*\*\*[  
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)This project elaborates on the design decisions taken while redesigning a website for The Intersectional Feminist ****from scratch. The project took about a month and a half to design & develop.
+\*\*\*\*[**Connecting Through Sound**](https://amazon.design/stories/connecting-through-sound/?ref=uxthisweek)\*\*\*\*[  
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)How do you balance the needs of the dad who wants a recipe read step-by-step with the needs of the person reading quietly? Is it possible to create sounds so natural that the device stops feeling like a device and just feels like a part of the home?
 
-\*\*\*\*[**How Bob Moog brought usability heuristics to the electronic synthesizer**  
-](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Decades prior to the modern-day computer as we know it, Bob Moog used design principles to bring a once niche instrument to the mainstream, influencing generations of musicians and instrument interfaces.
+\*\*\*\*[**Formal Usability Reports vs. Quick Findings**](https://www.nngroup.com/articles/formal-vs-quick-usability-reports/?ref=uxthisweek)\*\*\*\*[  
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Formal reports are the most common way of documenting usability studies, but informal reports are faster to produce and are often a better choice.
 
 {% hint style="info" %}
 Join us on Social Platforms.   
@@ -34,14 +34,14 @@ Join us on Social Platforms.
 
 ## Products of the week
 
-\*\*\*\*[**Access Guide**](https://www.notion.so/alexsnotes/d6a894bb4b234af3a5da4d2632338fff?v=465d85d448264d6da49cca67a4b5c442)  
- Access Guide is a friendly introduction to digital accessibility - specifically to help understand [WCAG 2.1](https://www.w3.org/TR/WCAG21/) \(Web Content Accessibility Guidelines\), the official resource for legal compliance.
+**Infinity Maps**  
+Create infinite maps to help you organize, structure, and share your knowledge.
 
-\*\*\*\*[**Tinter**](https://tinter.uxie.io/?ref=uxthisweek)  
-A tiny web tool to generate color variation of images.
+\*\*\*\*[**Khagwal 3D**](https://3d.khagwal.co/)   
+Free 3D illustration pack for web & mobile app designers. 
 
-\*\*\*\*[**Setups**](https://setups.co/?ref=uxthisweek)  
-A repository of workspaces, items & tools from the creator community.
+\*\*\*\*[**Compare to Dev**](https://compareto.dev/?ref=uxthisweek)  
+A handy image comparison tool. 
 
 {% hint style="info" %}
 Join us on Social Platforms.  
