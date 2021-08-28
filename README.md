@@ -34,7 +34,7 @@ Join us on Social Platforms.
 
 ## Products of the week
 
-**Infinity Maps**  
+\*\*\*\*[**Infinity Maps**](https://infinitymaps.io/en/?ref=uxthisweek)  
 Create infinite maps to help you organize, structure, and share your knowledge.
 
 \*\*\*\*[**Khagwal 3D**](https://3d.khagwal.co/)   
