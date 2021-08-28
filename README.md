@@ -6,7 +6,7 @@ description: >-
 
 # UX This Week
 
-![](.gitbook/assets/uxtw-banner-2021-34.jpg)
+![UXThisWeek newsletter, Issue \#34, 2021](.gitbook/assets/uxtw-banner-2021-34.jpg)
 
 ## UXThisWeek - Issue \#34
 
