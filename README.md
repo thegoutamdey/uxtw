@@ -6,26 +6,26 @@ description: >-
 
 # UX This Week
 
-![UXThisWeek newsletter, Issue \#34, 2021](.gitbook/assets/uxtw-banner-2021-34.jpg)
+![UXThisWeek - Issue \#35 September 2021](.gitbook/assets/uxtw-banner-2021-35.jpg)
 
-## UXThisWeek - Issue \#34
+## UXThisWeek - Issue \#35
 
 ## Articles of the week
 
-\*\*\*\*[**Evolving by Design**  
-](https://airbnb.design/evolving-by-design/?ref=uxthisweek)Can design power a company’s evolution? That’s what Airbnb has bet on since 2008, when a three-member team of designers and an engineer set out to solve the essential problem of where to stay.
+\*\*\*\*[**Why Product Thinking is the next big thing in UX Design**](https://medium.com/@jaf_designer/why-product-thinking-is-the-next-big-thing-in-ux-design-ee7de959f3fe/?ref=uxthisweek)\*\*\*\*[  
+****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)The core user experience is not a set of features; in fact, it is the job users hire the product for.
 
-\*\*\*\*[**The IKEA Effect — A UX Case Study**](https://uxplanet.org/the-ikea-effect-a-ux-case-study-e30fb27df5cc/?ref=uxthisweek)\*\*\*\*[  
-****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)All about those A's — your guide to understanding and making use of the ratios that determine your accessible contrast.
+\*\*\*\*[**The Most Important Rule in UX Design that Everyone Breaks**](https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931)\*\*\*\*[  
+****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)There is one principle of organization that every human should adhere to, particularly people who design products. Day after day, I see companies break this rule, and it is 100% of the time to their detriment.
 
-\*\*\*\*[**Questions UX designers need to ask during a kick-off meeting**](https://uxdesign.cc/26-questions-ux-designers-need-to-ask-during-a-kick-off-meeting-e4095e5febaa/?ref=uxthisweek)  
-The secret weapon in a Product Designers toolkit are questions! Especially at the beginning of a project where it is important to fully understand the challenge, the current understanding \(biases\), and to ensure usability is thought about on day one.
+\*\*\*\*[**How to develop an Innovator’s Mindset in the established Enterprise**](https://medium.com/@jaf_designer/how-to-develop-an-innovators-mindset-in-the-established-enterprise-90ec685c7aa1)  
+In a corporate environment that values perfect execution over free exploration, every innovation activity becomes incredibly hard: how to challenge the status quo in an organisational structure that has been built to protect it?
 
-\*\*\*\*[**Connecting Through Sound**](https://amazon.design/stories/connecting-through-sound/?ref=uxthisweek)\*\*\*\*[  
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)How do you balance the needs of the dad who wants a recipe read step-by-step with the needs of the person reading quietly? Is it possible to create sounds so natural that the device stops feeling like a device and just feels like a part of the home?
+[**Wireframes by Top UX Designers**](https://medium.com/inspiration-supply/wireframes-by-top-ux-designers-d6922d34ddb8)\*\*\*\*[  
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Wireframes are important for multiple reasons. One of them would be that they, the wireframes, focus on functionality, behavior, and priority of content. Once you have those things established, designing the product becomes a lot easier.
 
-\*\*\*\*[**Formal Usability Reports vs. Quick Findings**](https://www.nngroup.com/articles/formal-vs-quick-usability-reports/?ref=uxthisweek)\*\*\*\*[  
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Formal reports are the most common way of documenting usability studies, but informal reports are faster to produce and are often a better choice.
+\*\*\*\*[**Most Common UX Design Methods and Techniques**](https://uxplanet.org/most-common-ux-design-methods-and-techniques-c9a9fdc25a1e)\*\*\*\*[  
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)A statement that maps out the key aspects of product: what it is, who it is for and how it will be used. Value proposition helps the team create consensus around what the product will be.
 
 {% hint style="info" %}
 Join us on Social Platforms.   
@@ -34,14 +34,14 @@ Join us on Social Platforms.
 
 ## Products of the week
 
-\*\*\*\*[**Infinity Maps**](https://infinitymaps.io/en/?ref=uxthisweek)  
-Create infinite maps to help you organize, structure, and share your knowledge.
+\*\*\*\*[**wepresent.wetransfer.com**](https://wepresent.wetransfer.com/)  
+Unexpected stories about creativity.
 
-\*\*\*\*[**Khagwal 3D**](https://3d.khagwal.co/)   
-Free 3D illustration pack for web & mobile app designers. 
+[**pixelied**](https://pixelied.com/)  
+A full suite of image editing tools, with standalone solutions for the most common uses, tailored for businesses.
 
-\*\*\*\*[**Compare to Dev**](https://compareto.dev/?ref=uxthisweek)  
-A handy image comparison tool. 
+\*\*\*\*[**sessions.us**](https://sessions.us/?ref=uxthisweek)  
+Sessions is redefining hybrid communication by bringing all your collaboration tools in one single place. With our unique agenda designer, all your sessions will be flawlessly organized and always on time 
 
 {% hint style="info" %}
 Join us on Social Platforms.  
