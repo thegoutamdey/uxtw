@@ -6,26 +6,26 @@ description: >-
 
 # UX This Week
 
-![UXThisWeek - Issue \#35 September 2021](.gitbook/assets/uxtw-banner-2021-35.jpg)
+![](.gitbook/assets/uxtw-banner-2021-36.jpg)
 
-## UXThisWeek - Issue \#35
+## UXThisWeek - Issue \#36 September, 2021
 
 ## Articles of the week
 
-\*\*\*\*[**Why Product Thinking is the next big thing in UX Design**](https://medium.com/@jaf_designer/why-product-thinking-is-the-next-big-thing-in-ux-design-ee7de959f3fe/?ref=uxthisweek)\*\*\*\*[  
-****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)The core user experience is not a set of features; in fact, it is the job users hire the product for.
+\*\*\*\*[**The Psychology of User Offboarding**](https://growth.design/case-studies/adobe-cancel-subscription/?ref=uxthisweek)\*\*\*\*[  
+****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)Discover the user offboarding tactics used by Adobe, and how to design a subscription cancellation flow without relying on unethical dark patterns.
 
-\*\*\*\*[**The Most Important Rule in UX Design that Everyone Breaks**](https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931)\*\*\*\*[  
-****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)There is one principle of organization that every human should adhere to, particularly people who design products. Day after day, I see companies break this rule, and it is 100% of the time to their detriment.
+\*\*\*\*[**Tesla’s new ‘mind of car’ UI signals a future**](https://uxdesign.cc/teslas-new-mind-of-car-ui-signals-a-future-we-re-not-prepared-for-c38a6212c32)\*\*\*\*[  
+****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)The ‘Mind of a car’ is an enhanced visualization of what the AI sees and thinks through its vision-only cameras on a Tesla with FSD installed.
 
-\*\*\*\*[**How to develop an Innovator’s Mindset in the established Enterprise**](https://medium.com/@jaf_designer/how-to-develop-an-innovators-mindset-in-the-established-enterprise-90ec685c7aa1)  
-In a corporate environment that values perfect execution over free exploration, every innovation activity becomes incredibly hard: how to challenge the status quo in an organisational structure that has been built to protect it?
+\*\*\*\*[**Efficient multi-product design systems**](https://www.invisionapp.com/talks/design-systems-with-bmo-june-2021?utm_source=blog&utm_medium=organic&utm_campaign=BMO_Financial_InVision_Talk)  
+BMO’s growth story, including how they built a design system from the ground up to power a growing network of subsystems that connect its distributed teams.
 
-[**Wireframes by Top UX Designers**](https://medium.com/inspiration-supply/wireframes-by-top-ux-designers-d6922d34ddb8)\*\*\*\*[  
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Wireframes are important for multiple reasons. One of them would be that they, the wireframes, focus on functionality, behavior, and priority of content. Once you have those things established, designing the product becomes a lot easier.
+\*\*\*\*[**What Is ResearchOps and Why Is This Role So Useful**](https://www.uxpin.com/studio/blog/what-is-researchops/)\*\*\*\*[  
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)ResearchOps is the people, mechanisms, and strategies that set user research in motion. It provides the roles, tools, and processes needed to support researchers in delivering and scaling the impact of the craft across an organization.
 
-\*\*\*\*[**Most Common UX Design Methods and Techniques**](https://uxplanet.org/most-common-ux-design-methods-and-techniques-c9a9fdc25a1e)\*\*\*\*[  
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)A statement that maps out the key aspects of product: what it is, who it is for and how it will be used. Value proposition helps the team create consensus around what the product will be.
+\*\*\*\*[**Requirements: how to add depth to your UX practice using business analysis**](https://bootcamp.uxdesign.cc/requirements-how-to-add-depth-to-your-ux-practice-using-business-analysis-93fe8c6fe8c4)\*\*\*\*[  
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Business requirements are the organization's goals & objectives for a given product/project/initiative. It comes down to what the organization wants to achieve for its customers \(which could be internal, or external to the organization\).
 
 {% hint style="info" %}
 Join us on Social Platforms.   
@@ -34,14 +34,14 @@ Join us on Social Platforms.
 
 ## Products of the week
 
-\*\*\*\*[**wepresent.wetransfer.com**](https://wepresent.wetransfer.com/)  
-Unexpected stories about creativity.
+\*\*\*\*[**UI & UX Tips**](https://www.uidesign.tips/ux-tips?ref=uxthisweek)  
+Learn how to boost conversions and make your users happier with these simple UX tips from real-life products.
 
-[**pixelied**](https://pixelied.com/)  
-A full suite of image editing tools, with standalone solutions for the most common uses, tailored for businesses.
+\*\*\*\*[**Slantt**](https://slantt.co/?ref=uxthisweek)  
+Create stunning isometric graphics in minutes.
 
-\*\*\*\*[**sessions.us**](https://sessions.us/?ref=uxthisweek)  
-Sessions is redefining hybrid communication by bringing all your collaboration tools in one single place. With our unique agenda designer, all your sessions will be flawlessly organized and always on time 
+\*\*\*\*[**Heydesign**](https://heydesign.systems/?ref=uxthisweek)  
+ A space dedicated for all things Design Systems, curated by [@saura3h](https://twitter.com/saura3h) 
 
 {% hint style="info" %}
 Join us on Social Platforms.  
