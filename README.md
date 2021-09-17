@@ -6,26 +6,26 @@ description: >-
 
 # UX This Week
 
-![](.gitbook/assets/uxtw-banner-2021-36.jpg)
+![](.gitbook/assets/uxtw-banner-2021-37.jpg)
 
-## UXThisWeek - Issue \#36 September, 2021
+## UXThisWeek - Issue \#37 September, 2021
 
 ## Articles of the week
 
-\*\*\*\*[**The Psychology of User Offboarding**](https://growth.design/case-studies/adobe-cancel-subscription/?ref=uxthisweek)\*\*\*\*[  
-****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)Discover the user offboarding tactics used by Adobe, and how to design a subscription cancellation flow without relying on unethical dark patterns.
+\*\*\*\*[**How 9/11 changed architecture and urban design forever**](https://www.fastcompany.com/90674392/how-9-11-changed-architecture-and-urban-design-forever?ref=uxthisweek)\*\*\*\*[  
+****](https://airbnb.design/evolving-by-design/?ref=uxthisweek) “Whenever anybody thought about security, it was an afterthought in design,” says [Jon Coaffee](https://warwick.ac.uk/fac/soc/pais/people/coaffee/), a professor of urban geography at the University of Warwick who focuses on terrorism and urban resilience.
 
-\*\*\*\*[**Tesla’s new ‘mind of car’ UI signals a future**](https://uxdesign.cc/teslas-new-mind-of-car-ui-signals-a-future-we-re-not-prepared-for-c38a6212c32)\*\*\*\*[  
-****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)The ‘Mind of a car’ is an enhanced visualization of what the AI sees and thinks through its vision-only cameras on a Tesla with FSD installed.
+[**Data Vis Dispatch**](https://blog.datawrapper.de/data-vis-dispatch-september-7-2021/?ref=uxthisweek)\*\*\*\*[  
+****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek) A collection of the best small and large data visualizations , especially from news organizations — to celebrate data journalism, data visualization, simple charts, elaborate maps, and their creators.
 
-\*\*\*\*[**Efficient multi-product design systems**](https://www.invisionapp.com/talks/design-systems-with-bmo-june-2021?utm_source=blog&utm_medium=organic&utm_campaign=BMO_Financial_InVision_Talk)  
-BMO’s growth story, including how they built a design system from the ground up to power a growing network of subsystems that connect its distributed teams.
+\*\*\*\*[**Embedding Design into the Fiber of Fintech**](https://www.designerfund.com/blog/embedding-design-into-the-fiber-of-fintech/?ref=uxthisweek)  
+Design has had an impact at Stripe because it is valued, nurtured from the top, and focuses on making a positive impact on people. Success takes being intentional about how design works within the company at every stage of growth. And it takes an unimaginable amount of grit..
 
-\*\*\*\*[**What Is ResearchOps and Why Is This Role So Useful**](https://www.uxpin.com/studio/blog/what-is-researchops/)\*\*\*\*[  
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)ResearchOps is the people, mechanisms, and strategies that set user research in motion. It provides the roles, tools, and processes needed to support researchers in delivering and scaling the impact of the craft across an organization.
+"[**The Decade of Design”: How the last 10 years transformed design’s role in tech**](https://www.figma.com/blog/the-rise-of-ux-ui-design-a-decade-in-reflection/)\*\*\*\*[  
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Silicon Valley, which had long exalted the engineer, finally began to appreciate the power of the designer too. We didn’t want to let this decade pass without acknowledging the milestones and moments that made this happen. It turns out that a lot can unfold in 10 years..
 
-\*\*\*\*[**Requirements: how to add depth to your UX practice using business analysis**](https://bootcamp.uxdesign.cc/requirements-how-to-add-depth-to-your-ux-practice-using-business-analysis-93fe8c6fe8c4)\*\*\*\*[  
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Business requirements are the organization's goals & objectives for a given product/project/initiative. It comes down to what the organization wants to achieve for its customers \(which could be internal, or external to the organization\).
+\*\*\*\*[**Dive into UI/UX design at Adobe**](https://blog.adobe.com/en/publish/2021/09/17/dive-into-ui-ux-design-at-adobe-max.html#gs.bl89ir)\*\*\*\*[  
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192) Whether you are new to UI/UX design or an experienced designer looking to grow your skills, the sessions and labs included on the UI/UX track will cover everything from getting started with [Adobe XD](https://www.adobe.com/products/xd.html) to learning advanced prototyping techniques and building design systems.
 
 {% hint style="info" %}
 Join us on Social Platforms.   
@@ -34,14 +34,14 @@ Join us on Social Platforms.
 
 ## Products of the week
 
-\*\*\*\*[**UI & UX Tips**](https://www.uidesign.tips/ux-tips?ref=uxthisweek)  
-Learn how to boost conversions and make your users happier with these simple UX tips from real-life products.
+\*\*\*\*[**Upshift**](https://www.upshift.supply/?ref=uxthisweek)  
+An inspirational collection of the best landing pages.
 
-\*\*\*\*[**Slantt**](https://slantt.co/?ref=uxthisweek)  
-Create stunning isometric graphics in minutes.
+\*\*\*\*[**Auto Interfaces**](https://www.autointerfaces.com/?ref=uxthisweek)  
+Discover the latest auto infotainment screens & interactions.
 
-\*\*\*\*[**Heydesign**](https://heydesign.systems/?ref=uxthisweek)  
- A space dedicated for all things Design Systems, curated by [@saura3h](https://twitter.com/saura3h) 
+\*\*\*\*[**interface-index**](https://interface-index.com/?ref=uxthisweek)  
+Interface elements from the best B2B, SaaS and desktop apps and services 
 
 {% hint style="info" %}
 Join us on Social Platforms.  
