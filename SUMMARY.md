@@ -1,6 +1,6 @@
 # Table of contents
 
-* [UX This Week](README.md)
+* [Week 38, September 2021](README.md)
 * [About UXTW](about-uxtw.md)
 * [Free UX Resources](free-ux-resources.md)
 
