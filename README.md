@@ -4,11 +4,11 @@ description: >-
   Service Design.
 ---
 
-# Week 39, September 2021
+# Week 39, October 2021
 
 ![](.gitbook/assets/uxtw-banner-2021-39.jpg)
 
-## UXThisWeek - Issue \#39 September, 2021
+## UXThisWeek - Issue \#39 October, 2021
 
 ## Articles of the week
 
