@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Week 42, October 2021](README.md)
+* [Week 43, October 2021](README.md)
 * [About UXTW](about-uxtw.md)
 * [Free UX Resources](free-ux-resources.md)
 

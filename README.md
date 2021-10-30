@@ -4,28 +4,28 @@ description: >-
   Service Design.
 ---
 
-# Week 42, October 2021
+# Week 43, October 2021
 
-![](.gitbook/assets/uxtw-banner-2021-42.jpg)
+![](.gitbook/assets/uxtw-banner-2021-43.jpg)
 
-## UXThisWeek - Issue #42 October, 2021
+## UXThisWeek - Issue #43 October, 2021
 
 ## Articles of the week
 
-****[**UXE: What Is a UX Engineer?**](https://blog.devmountain.com/uxe-what-is-a-ux-engineer/)****[****\
-****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)Ultimate Xylophone engineer? That’s what you mean when you say UX engineer (UXE), right? We’re kidding, of course. A xylophone is not the first thing _anyone_ thinks of when they hear _UX engineer_. But what exactly _is_ the first thing? What is a UX engineer?&#x20;
+****[**Ditch your personas. Here are 17 alternatives you can use**](https://medium.com/angi-studio/ditch-your-personas-here-are-17-alternatives-you-can-use-44a285840e5d)****[****\
+****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)If I say persona, you probably have an image in mind of what they look like: a name and a photo, some sliders, a quote, etc. I call these ‘template-personas’ and they are not useful. At best they offer a false promise: research once, reuse everywhere. At their worst, they are misleading us with stereotypes. Here are 17 alternatives you can use.
 
-****[**Switching Careers to UX**](https://uxtools.co/guides/switching-careers-to-ux/)****[****\
-****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)The decision sure didn’t come easy. I put in a ton of hours to make sure it was going to be a worthwhile career change. I look forward to where this career will take me!.
+[Mockplus + Jira, a New Level of Seamless Workflow](https://jongde.medium.com/mockplus-jira-a-new-level-of-seamless-workflow-for-more-teams-6a2b5e4ce9b)[****\
+****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)Mockplus integrates with Jira, enabling you to attach a project link to Jira issues for instant access. You can access, preview and communicate all in Jira, making design collaboration more efficient than ever before!
 
-****[**Architect to UX designer**](https://bootcamp.uxdesign.cc/my-transition-from-architecture-to-ux-design-519fd28385fe)\
-A global taxi company with no taxis. A giant shopping mall with no buildings. A worldwide hospitality company with no hotels. Why not create an architecture firm with no architects or interior designers?
+[3 Worst Failures You Can Make as a Design Leader](https://medium.com/ux-designers-club/3-worst-failures-you-can-do-as-a-design-leader-4112aaf5781f)\
+Senior design leaders can complement the hypothesis- and framework-based approaches to strategy on which top executives have long (and perhaps overly) relied.
 
-[Understanding Cognitive Bias in Product Design, the Good and Bad](https://www.toptal.com/designers/ux/cognitive-bias-product-design)[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Knowing the psychology of how and why we make certain decisions can help in creating more user-centric sites and apps.
+[How to create a successful UX case study in 2022 to ace your first interview](https://uxplanet.org/how-to-create-a-successful-ux-case-study-in-2022-to-ace-your-first-interview-real-faang-examples-75d1a658269e)[****\
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Perhaps you even landed an interview, but you know it didn’t go well because you stumbled at the very first step of presenting and answering questions on your project. So ...
 
-****[**Researchers: how to automatically pull reviews from AppStore and Google Play**](https://uxdesign.cc/how-do-i-automate-getting-reviews-from-appstore-and-google-play-4cc0ebf1a6e4)****[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)One of the excellent ways to get feedback on developing products is to read the reviews from real people. It’s smooth when you are creating a mobile app. You can go to [**App Store**](https://www.apple.com/app-store/) or [**Google Play**](https://play.google.com) and dive into raw data.
+****[**Make Better Design Decisions with Data**](https://medium.com/salesforce-ux/make-better-design-decisions-with-data-f4d37874fec0)****[****\
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Behind every data point, there is a human being. Our job is to translate those numbers to create connections with customers.
 
 {% hint style="info" %}
 Join us on Social Platforms. \
@@ -34,14 +34,14 @@ Join us on Social Platforms. \
 
 ## Products of the week
 
-[Userforge](https://userforge.com/?ref=uxthisweek)\
-Persona generator and [user story template](https://userforge.com/user-stories.html) tools to **align your efforts with real-world user needs.**
+[Focus](https://designwithfocus.com/?ref=uxthisweek)\
+Annotate, discuss, document, iterate & collaborate, all in one accessible place.
 
-[**M**indnote](https://www.mindnode.com/?ref=uxthisweek)[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Start planning your vacation. Outlining your next best-seller. Writing your notes. MindNode lets you capture, organize, style and share your thoughts.
+[Bravostudio](https://www.bravostudio.app/?ref=uxthisweek)[****\
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)The fastest mobile app building platform. Convert your designs into native apps, instantly.
 
-****[**Ribbon**](https://www.ribbonapp.com/?ref=uxthisweek)****[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Ribbon helps product researchers gather feedback and interview users at speed, without the hassle.
+[Palitra](https://palitra.app/?ref=uxthisweek)[****\
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)The easiest way to find a color palette!
 
 {% hint style="info" %}
 Join us on Social Platforms.\
