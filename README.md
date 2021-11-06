@@ -4,28 +4,28 @@ description: >-
   Service Design.
 ---
 
-# Week 43, October 2021
+# Week 44, November 2021
 
-![](.gitbook/assets/uxtw-banner-2021-43.jpg)
+![](.gitbook/assets/uxtw-banner-2021-44.jpg)
 
-## UXThisWeek - Issue #43 October, 2021
+## UXThisWeek - Issue #44 November, 2021
 
 ## Articles of the week
 
-****[**Ditch your personas. Here are 17 alternatives you can use**](https://medium.com/angi-studio/ditch-your-personas-here-are-17-alternatives-you-can-use-44a285840e5d)****[****\
-****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)If I say persona, you probably have an image in mind of what they look like: a name and a photo, some sliders, a quote, etc. I call these ‘template-personas’ and they are not useful. At best they offer a false promise: research once, reuse everywhere. At their worst, they are misleading us with stereotypes. Here are 17 alternatives you can use.
+****[**To Become Great, Embrace Your Flaws**](https://dariusforoux.medium.com/to-become-great-embrace-your-flaws-2e1fadd2a1a5)****[****\
+****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)When you accept who you are, you no longer waste your energy fitting in or trying to impress others.
 
-[**Mockplus + Jira, a New Level of Seamless Workflow**](https://jongde.medium.com/mockplus-jira-a-new-level-of-seamless-workflow-for-more-teams-6a2b5e4ce9b)****[****\
-****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)Mockplus integrates with Jira, enabling you to attach a project link to Jira issues for instant access. You can access, preview and communicate all in Jira, making design collaboration more efficient than ever before!
+****[**What designers do when designing is done**](https://medium.com/@jsonbrnch/what-designers-do-when-designing-is-done-7ab7a7f9f2d)****[****\
+****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)his is an abbreviated version of a talk I gave at SF Design week 2021. What’s the responsibility of a product designer once figma/sketch is closed.
 
 [**3 Worst Failures You Can Make as a Design Leader**](https://medium.com/ux-designers-club/3-worst-failures-you-can-do-as-a-design-leader-4112aaf5781f)\
 Senior design leaders can complement the hypothesis- and framework-based approaches to strategy on which top executives have long (and perhaps overly) relied.
 
-[**How to create a successful UX case study in 2022 to ace your first interview**](https://uxplanet.org/how-to-create-a-successful-ux-case-study-in-2022-to-ace-your-first-interview-real-faang-examples-75d1a658269e)****[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Perhaps you even landed an interview, but you know it didn’t go well because you stumbled at the very first step of presenting and answering questions on your project. So ...
+****[**20 Laws of UX Design**](https://medium.com/@FlowMapp/20-laws-of-ux-design-that-each-of-us-faces-every-day-part-1-48f9bd2a4fd2)****[****\
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)**B**behind the simplicity of UX design lies the study of patterns in human behavior.
 
-****[**Make Better Design Decisions with Data**](https://medium.com/salesforce-ux/make-better-design-decisions-with-data-f4d37874fec0)****[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Behind every data point, there is a human being. Our job is to translate those numbers to create connections with customers.
+****[**B2B User Experience — Achievable Solutions to Common Obstacles**](https://divamithoughts.medium.com/b2b-user-experience-achievable-solutions-to-common-obstacles-1eaca0ea6080)****[****\
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)The first instinct of B2B companies is to be safe with designs. After all, you need your product or service to be reliable, which means that you need to vet out every element of your design carefully.
 
 {% hint style="info" %}
 Join us on Social Platforms. \
@@ -34,14 +34,14 @@ Join us on Social Platforms. \
 
 ## Products of the week
 
-[**Focus**](https://designwithfocus.com/?ref=uxthisweek)\
-Annotate, discuss, document, iterate & collaborate, all in one accessible place.
+****[**Roadmap**](https://roadmap.show/?ref=uxthisweek)\
+Manage and build your Roadmap in a simple drag drop tool that keeps your customers and team in the loop.
 
-[**Bravostudio**](https://www.bravostudio.app/?ref=uxthisweek)****[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)The fastest mobile app building platform. Convert your designs into native apps, instantly.
+****[**Lunacy**](https://icons8.com/lunacy?ref=uxthisweek)****[****\
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Free design software that keeps your flow with AI tools and built-in graphics.
 
-[**Palitra**](https://palitra.app/?ref=uxthisweek)****[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)The easiest way to find a color palette!
+****[**Olio Constructor**](https://olio.work/?ref=uxthisweek)****[****\
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Let's create your perfect illustration scene with Figma.
 
 {% hint style="info" %}
 Join us on Social Platforms.\
