@@ -4,28 +4,28 @@ description: >-
   Service Design.
 ---
 
-# Week 44, November 2021
+# Week 45, November 2021
 
-![](.gitbook/assets/uxtw-banner-2021-44.jpg)
+![](.gitbook/assets/uxtw-banner-2021-45.jpg)
 
-## UXThisWeek - Issue #44 November, 2021
+## UXThisWeek - Issue #45 November, 2021
 
 ## Articles of the week
 
-****[**To Become Great, Embrace Your Flaws**](https://dariusforoux.medium.com/to-become-great-embrace-your-flaws-2e1fadd2a1a5)****[****\
-****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)When you accept who you are, you no longer waste your energy fitting in or trying to impress others.
+****[**6 Career Paths to Consider in Enterprise Design**](https://medium.com/sap-design/6-career-paths-to-consider-in-enterprise-design-710d25712e11)****[****\
+****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)The average person will spend one third of their life at work. That’s around 90,000 hours that we can spend doing our jobs well, or waste getting angry at our devices. Luckily there are people out there whose sole occupation is to improve our relationship with the technology we work with. They are called enterprise designers.
 
-****[**What designers do when designing is done**](https://medium.com/@jsonbrnch/what-designers-do-when-designing-is-done-7ab7a7f9f2d)****[****\
-****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)his is an abbreviated version of a talk I gave at SF Design week 2021. What’s the responsibility of a product designer once figma/sketch is closed.
+****[**The Right Language Can Build Customer Trust, Confidence, and Connection**](https://www.inc.com/vasco-pedro/the-right-language-can-build-customer-trust-confidence-connection.html)****[****\
+****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)According to Unbabel's Global Multilingual CX Report published last week, one in four U.S. consumers said they won't spend more than $500 with a business if it doesn't offer proper language support.
 
-[**3 Worst Failures You Can Make as a Design Leader**](https://medium.com/ux-designers-club/3-worst-failures-you-can-do-as-a-design-leader-4112aaf5781f)\
-Senior design leaders can complement the hypothesis- and framework-based approaches to strategy on which top executives have long (and perhaps overly) relied.
+****[**Hybrid work isn’t perfect, but SCIENCE can help us improve it**](https://thenextweb.com/news/hybrid-work-not-perfect-science-success-syndication)\
+99% of human resources leaders expect employees to work in some kind of hybrid arrangement moving forward. Many have already begun. As just one example, Dropbox, the file hosting service, made a permanent shift during the pandemic, allowing employees to work from home and hold team meetings in the office.
 
-****[**20 Laws of UX Design**](https://medium.com/@FlowMapp/20-laws-of-ux-design-that-each-of-us-faces-every-day-part-1-48f9bd2a4fd2)****[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)**B**behind the simplicity of UX design lies the study of patterns in human behavior.
+[Product Lifecycle & Post Launch Experiences](https://uxplanet.org/product-lifecycle-post-launch-experiences-45d378931fa9)[****\
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Product Journeys and crafting market ready applications and software, is a topic that is and hopefully will continue to be, target of many fruitful discussions. One of the topics that I’ve engaged with peers from different groups, including Design, Product and Development, concerns the lifecycle of products, and the the experiences that actually occur when a product solution is unleashed to market
 
-****[**B2B User Experience — Achievable Solutions to Common Obstacles**](https://divamithoughts.medium.com/b2b-user-experience-achievable-solutions-to-common-obstacles-1eaca0ea6080)****[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)The first instinct of B2B companies is to be safe with designs. After all, you need your product or service to be reliable, which means that you need to vet out every element of your design carefully.
+****[**Maintaining the Flow with UX design**](https://medium.com/@jlester\_50163/maintaining-the-flow-with-ux-design-7a35f1390849)****[****\
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)The use of design sprints were a revelation and ‘Sprint’ soon became my go to bible. Thank you, Jake Knapp! The sprints guided design solutions, mapping and planning resulted in a solution for a prototype in just four days.
 
 {% hint style="info" %}
 Join us on Social Platforms. \
@@ -34,14 +34,14 @@ Join us on Social Platforms. \
 
 ## Products of the week
 
-****[**Roadmap**](https://roadmap.show/?ref=uxthisweek)\
-Manage and build your Roadmap in a simple drag drop tool that keeps your customers and team in the loop.
+****[**Airgram**](https://www.airgram.io/?ref=uxthisweek)\
+The most flexible meeting productivity tool for the hybrid work era. Empower teams to have meetings in the most engaging, efficient, and enjoyable way possible.
 
-****[**Lunacy**](https://icons8.com/lunacy?ref=uxthisweek)****[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Free design software that keeps your flow with AI tools and built-in graphics.
+****[**Automa**](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca?ref=uxthisweek)****[****\
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website, it's up to you what you want to do with this extension. And you also can schedule when the automation will execute.
 
-****[**Olio Constructor**](https://olio.work/?ref=uxthisweek)****[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Let's create your perfect illustration scene with Figma.
+****[**Microsoft Loop**](https://www.microsoft.com/en-us/microsoft-loop?ref=uxthisweek)****[****\
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Microsoft Loop is a new app that combines a powerful and flexible canvas with portable components that move freely and stay in sync across applications.
 
 {% hint style="info" %}
 Join us on Social Platforms.\
