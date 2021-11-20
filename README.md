@@ -4,28 +4,28 @@ description: >-
   Service Design.
 ---
 
-# Week 45, November 2021
+# Week 46, November 2021
 
-![](.gitbook/assets/uxtw-banner-2021-45.jpg)
+![](.gitbook/assets/uxtw-banner-2021-46.jpg)
 
-## UXThisWeek - Issue #45 November, 2021
+## UXThisWeek - Issue #46 November, 2021
 
 ## Articles of the week
 
-****[**6 Career Paths to Consider in Enterprise Design**](https://medium.com/sap-design/6-career-paths-to-consider-in-enterprise-design-710d25712e11)****[****\
-****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)The average person will spend one third of their life at work. That’s around 90,000 hours that we can spend doing our jobs well, or waste getting angry at our devices. Luckily there are people out there whose sole occupation is to improve our relationship with the technology we work with. They are called enterprise designers.
+****[**Stop Making Users Scroll Long State and Country Menus**](https://uxmovement.medium.com/stop-making-users-scroll-long-state-and-country-menus-8a7797e12489)****[****\
+****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)When users fill out a form, they want a quick and smooth experience. Any friction can cause frustration, errors, or form abandonment.
 
-****[**The Right Language Can Build Customer Trust, Confidence, and Connection**](https://www.inc.com/vasco-pedro/the-right-language-can-build-customer-trust-confidence-connection.html)****[****\
-****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)According to Unbabel's Global Multilingual CX Report published last week, one in four U.S. consumers said they won't spend more than $500 with a business if it doesn't offer proper language support.
+****[**A Better Onboarding Experience**](https://r-thackerjr.medium.com/a-better-onboarding-experience-bbef34af5e36)****[****\
+****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)**Y**ou remember your first day on the job? It started with the obligatory paperwork, but then you were whisked away to drink from not just one but several firehoses.
 
-****[**Hybrid work isn’t perfect, but SCIENCE can help us improve it**](https://thenextweb.com/news/hybrid-work-not-perfect-science-success-syndication)\
-99% of human resources leaders expect employees to work in some kind of hybrid arrangement moving forward. Many have already begun. As just one example, Dropbox, the file hosting service, made a permanent shift during the pandemic, allowing employees to work from home and hold team meetings in the office.
+****[**7 reasons why you should present your design work in Overflow and not in your design tool**](https://blog.overflow.io/7-reasons-why-you-should-present-your-design-work-in-overflow-a5d84550ab7a)\
+Specifically, when it comes to design presentation and getting stakeholder feedback, designers often depend on the basic prototyping features introduced by design tools. In scenarios, where these features don’t exactly get the job done, they have to get inventive or spend much extra time to prepare something presentable — sometimes both.
 
-[Product Lifecycle & Post Launch Experiences](https://uxplanet.org/product-lifecycle-post-launch-experiences-45d378931fa9)[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Product Journeys and crafting market ready applications and software, is a topic that is and hopefully will continue to be, target of many fruitful discussions. One of the topics that I’ve engaged with peers from different groups, including Design, Product and Development, concerns the lifecycle of products, and the the experiences that actually occur when a product solution is unleashed to market
+[How We Standardized Our Design Workflow at Agoda](https://medium.com/agoda-engineering/how-we-standardized-our-design-workflow-at-agoda-4467ffe0b0d1)[****\
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Things we have to deal with in a larger group are more complicated than in a smaller one, and it can often result in a loss of transparency across teams. I am sure a lot of design teams like us have encountered similar situations.
 
-****[**Maintaining the Flow with UX design**](https://medium.com/@jlester\_50163/maintaining-the-flow-with-ux-design-7a35f1390849)****[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)The use of design sprints were a revelation and ‘Sprint’ soon became my go to bible. Thank you, Jake Knapp! The sprints guided design solutions, mapping and planning resulted in a solution for a prototype in just four days.
+[Designing with words: Tackling UX writing as a UX designer](https://medium.com/patternfly/designing-with-words-tackling-ux-writing-as-a-ux-designer-99f6e4c7ad66)[****\
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)As a UX practitioner, I like to view myself as a designer who writes. I am not a UX writer, but I often put on my UX writing hat when designing a user interface (UI). Being a writer is not my main role, but it’s a crucial part of my UX work. UIs rely heavily on visual and textual information to convey meaningful information to their users. Because of this interplay, images _and _words are mediums we, as UX designers, should master.
 
 {% hint style="info" %}
 Join us on Social Platforms. \
@@ -34,7 +34,7 @@ Join us on Social Platforms. \
 
 ## Products of the week
 
-****[**Airgram**](https://www.airgram.io/?ref=uxthisweek)\
+[Leanbe](https://leanbe.ai/?ref=uxthisweek)\
 The most flexible meeting productivity tool for the hybrid work era. Empower teams to have meetings in the most engaging, efficient, and enjoyable way possible.
 
 ****[**Automa**](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca?ref=uxthisweek)****[****\
