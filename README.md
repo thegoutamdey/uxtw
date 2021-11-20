@@ -37,11 +37,11 @@ Join us on Social Platforms. \
 [Leanbe](https://leanbe.ai/?ref=uxthisweek)\
 The most flexible meeting productivity tool for the hybrid work era. Empower teams to have meetings in the most engaging, efficient, and enjoyable way possible.
 
-****[**Automa**](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca?ref=uxthisweek)****[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website, it's up to you what you want to do with this extension. And you also can schedule when the automation will execute.
+****[**C**ohere](https://cohere.io/replay?ref=uxthiswek)[****\
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Record exactly how visitors experience your site, so you can uncover hidden issues and build stellar digital experiences.
 
-****[**Microsoft Loop**](https://www.microsoft.com/en-us/microsoft-loop?ref=uxthisweek)****[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Microsoft Loop is a new app that combines a powerful and flexible canvas with portable components that move freely and stay in sync across applications.
+****[**H**eygform](https://heyform.net/?ref=uxthisweek)[****\
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Create exciting forms, share them online and manage your data, all in just a few clicks!
 
 {% hint style="info" %}
 Join us on Social Platforms.\
