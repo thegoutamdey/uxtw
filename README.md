@@ -4,28 +4,30 @@ description: >-
   Service Design.
 ---
 
-# Week 46, November 2021
+# Week 47, November 2021
 
-![](.gitbook/assets/uxtw-banner-2021-46.jpg)
+![](.gitbook/assets/uxtw-banner-2021-47.jpg)
 
-## UXThisWeek - Issue #46 November, 2021
+## UXThisWeek - Issue #47 November, 2021
 
 ## Articles of the week
 
-****[**Stop Making Users Scroll Long State and Country Menus**](https://uxmovement.medium.com/stop-making-users-scroll-long-state-and-country-menus-8a7797e12489)****[****\
-****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)When users fill out a form, they want a quick and smooth experience. Any friction can cause frustration, errors, or form abandonment.
+****
 
-****[**A Better Onboarding Experience**](https://r-thackerjr.medium.com/a-better-onboarding-experience-bbef34af5e36)****[****\
-****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)**Y**ou remember your first day on the job? It started with the obligatory paperwork, but then you were whisked away to drink from not just one but several firehoses.
+****[**3 Tips for Aspiring UX UI Designers**](https://divamithoughts.medium.com/3-tips-for-aspiring-ux-ui-designers-6b245aa60e1)****[****\
+****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)Storytelling: Because you’re only showing a few of your best projects, you’ll need to convey captivating stories about each one. Your portfolio works as a storyteller, taking your audience on a journey of each of your projects and you as a designer.
 
-****[**7 reasons why you should present your design work in Overflow and not in your design tool**](https://blog.overflow.io/7-reasons-why-you-should-present-your-design-work-in-overflow-a5d84550ab7a)\
-Specifically, when it comes to design presentation and getting stakeholder feedback, designers often depend on the basic prototyping features introduced by design tools. In scenarios, where these features don’t exactly get the job done, they have to get inventive or spend much extra time to prepare something presentable — sometimes both.
+[Types of design tools for voice user interfaces and how to use them](https://uxdesign.cc/types-of-design-tools-for-voice-user-interfaces-and-how-to-use-them-97172f18228e)[****\
+****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)If you want to learn how to design a voice interaction for Alexa, Google Assistant, or any other conversational interface, in this article I will go through the different tools you can use in your projects and how to work with each one of them.
 
-[How We Standardized Our Design Workflow at Agoda](https://medium.com/agoda-engineering/how-we-standardized-our-design-workflow-at-agoda-4467ffe0b0d1)[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Things we have to deal with in a larger group are more complicated than in a smaller one, and it can often result in a loss of transparency across teams. I am sure a lot of design teams like us have encountered similar situations.
+****[**Building your dream UX Team**](https://medium.com/@cubyts/building-your-dream-ux-team-b53a8a68c07f)\
+Deciding to hire an agency partner or build a user experience team of your own can be challenging; after all, there’s a huge list of pros and cons surrounding either choice. But since smooth and effective UX design is critical to putting together a website that converts, it’s a decision you need to make.
 
-[Designing with words: Tackling UX writing as a UX designer](https://medium.com/patternfly/designing-with-words-tackling-ux-writing-as-a-ux-designer-99f6e4c7ad66)[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)As a UX practitioner, I like to view myself as a designer who writes. I am not a UX writer, but I often put on my UX writing hat when designing a user interface (UI). Being a writer is not my main role, but it’s a crucial part of my UX work. UIs rely heavily on visual and textual information to convey meaningful information to their users. Because of this interplay, images _and _words are mediums we, as UX designers, should master.
+****[**What UX Tools & Techniques Do Apple Use?**](https://medium.com/@shaheermalikofficial/what-ux-tools-techniques-do-apple-use-1c33b5dda565)****[****\
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Apple has long been leading the market with its innovative design idea and unique design spirit. There is no one more determined company that does not want to make success as big as Apple.
+
+****[**Dysfunctional systems: Why are we designing for addiction?**](https://uxdesign.cc/dysfunctional-systems-why-are-we-designing-for-addiction-9ce14f6f3879)****[****\
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)One of the most popular models of engagement is Nir Eyal’s Hook model, which is usually presented as either an infinity symbol or a downward spiral.
 
 {% hint style="info" %}
 Join us on Social Platforms. \
@@ -34,14 +36,14 @@ Join us on Social Platforms. \
 
 ## Products of the week
 
-[Leanbe](https://leanbe.ai/?ref=uxthisweek)\
-The most flexible meeting productivity tool for the hybrid work era. Empower teams to have meetings in the most engaging, efficient, and enjoyable way possible.
+****[**kinopio**](https://kinopio.club)\
+A visual thinking tools for hard problems.&#x20;
 
-****[**C**ohere](https://cohere.io/replay?ref=uxthiswek)[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Record exactly how visitors experience your site, so you can uncover hidden issues and build stellar digital experiences.
+****[**B**rainio](https://brainio.com)[****\
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Note taking and mind mapping combined in one app
 
-****[**H**eygform](https://heyform.net/?ref=uxthisweek)[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Create exciting forms, share them online and manage your data, all in just a few clicks!
+****[**Mindnote**](https://www.mindnode.com)****[****\
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Mind mapping on steroids.&#x20;
 
 {% hint style="info" %}
 Join us on Social Platforms.\
