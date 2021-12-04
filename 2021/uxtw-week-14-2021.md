@@ -22,7 +22,7 @@ Subscribe to _**UX This Week newsletter**_  to get weekly email full of curated 
 [**The Zendesk Triple Diamond Method**](https://medium.com/zendesk-creative-blog/the-zendesk-triple-diamond-process-fd857a11c179/?ref=thegoutamdey)\
 As designers, we don’t hold a monopoly on thinking about the humans who use and buy our software.
 
-[**How a Team Matures Its User Research Integration?**](https://articles.uie.com/how-a-team-matures-its-user-research-integration/)** **\
+[**How a Team Matures Its User Research Integration?**](https://articles.uie.com/how-a-team-matures-its-user-research-integration/) **** \
 The more mature a team’s integration is, the more data and insights they have to make smart design decisions.
 
 [**The art of making information beautiful**](http://turning/%20data%20into%20a%20visualization%20can%20really%20change%20the%20viewer's%20perspective.%20It%E2%80%99s%20almost%20like%20translating%20text%20into%20another%20language/?ref=thegoutamdey)\
@@ -30,7 +30,7 @@ Turning data into a visualization can really change the viewer's perspective. It
 
 ## Products of the week
 
-[**UXReality **](https://www.uxreality.com/?ref=thegoutamdey)\
+[**UXReality** ](https://www.uxreality.com/?ref=thegoutamdey)\
 Understand user behavior with the help of online measuring visual attention (eye-tracking) and facial expressions.
 
 [**UXTW**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123\&id=0009036f95)\

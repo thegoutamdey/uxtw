@@ -27,7 +27,7 @@ BMO’s growth story, including how they built a design system from the ground u
 
 {% hint style="info" %}
 Join us on Social Platforms. \
-[**Twitter**](https://twitter.com/uxtw2)** | **[**Facebook**](https://www.facebook.com/webusabilityandux)** | **[**Linkedin**](https://www.linkedin.com/groups/1875717/)** | **[**Slack**](https://join.slack.com/t/uxthisweek/shared\_invite/zt-szpdweo1-d78hso8FppFcI68Xue\_9Yw)** | Newsletter**
+[**Twitter**](https://twitter.com/uxtw2) **|** [**Facebook**](https://www.facebook.com/webusabilityandux) **|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **|** [**Slack**](https://join.slack.com/t/uxthisweek/shared\_invite/zt-szpdweo1-d78hso8FppFcI68Xue\_9Yw) **| Newsletter**
 {% endhint %}
 
 ## Products of the week

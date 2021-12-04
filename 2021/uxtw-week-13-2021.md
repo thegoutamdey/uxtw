@@ -22,7 +22,7 @@ User interview questions are for the core of the interview outside of your scree
 [**UXTW**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123\&id=0009036f95)\
 Subscribe to UX This Week newsletter  to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
 
-[**How to estimate the ROI of design work**](https://www.invisionapp.com/inside-design/estimate-roi-design-work/?ref=thegoutamdey)** **\
+[**How to estimate the ROI of design work**](https://www.invisionapp.com/inside-design/estimate-roi-design-work/?ref=thegoutamdey) **** \
 Designers are biased towards actions, and it makes sense for us to do the latter. However, there’s a hurdle designers face: We try to explain design’s impact through qualitative thinking: empathy, aesthetics, and user experience, for example. While these are important factors, they’re not what business people understand, nor are they what drives business people towards action.
 
 [**Journey Mapping for Remote Teams: A Digital Template**](https://www.nngroup.com/articles/journey-map-digital-template/?ref=thegoutamdey)\
@@ -30,7 +30,7 @@ A collaborative spreadsheet is an efficient, effective tool for virtual customer
 
 ## Products of the week
 
-[**UXToast **](https://www.uxtoast.com/?ref=thegoutamdey)\
+[**UXToast** ](https://www.uxtoast.com/?ref=thegoutamdey)\
 Learn the fundamentals of UX & UI Design, including design laws and principles, visual design, and design processes.
 
 [**Productroad**](https://productroad.com/?ref=thegoutamdey)\

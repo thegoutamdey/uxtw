@@ -22,7 +22,7 @@ Subscribe to _**UX This Week newsletter**_  to get weekly email full of curated 
 [**UX Design: The most difficult concepts to explain**](https://scottberkun.com/2021/ux-design-the-most-difficult-concepts-to-explain-list/?ref=thegoutamdey)\
 All experts forget that what is basic to us isn’t basic to everyone else.
 
-[**Service Design Tools & Methods**](https://medium.com/capitalonedesign/service-design-tools-methods-6e7f62fcf881/?ref=thegoutamdey)** **\
+[**Service Design Tools & Methods**](https://medium.com/capitalonedesign/service-design-tools-methods-6e7f62fcf881/?ref=thegoutamdey) **** \
 Downloadable templates for service design ..
 
 [**UX Deliverables: What will I be making as a UX designer?**](https://www.interaction-design.org/literature/article/7-ux-deliverables-what-will-i-be-making-as-a-ux-designer/?ref=thegoutamdey)\
@@ -30,7 +30,7 @@ Each tool or method might produce a different type of output (UX deliverable), b
 
 ## Products of the week
 
-[**UserGuiding **](https://userguiding.com/?ref=thegoutamdey)\
+[**UserGuiding** ](https://userguiding.com/?ref=thegoutamdey)\
 Build interactive product guides in minutes with our user-friendly “No-code” solution..
 
 [**Draftium**](https://draftium.com/?ref=thegoutamdey)\

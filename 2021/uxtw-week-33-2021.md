@@ -22,14 +22,14 @@ description: >-
 Cognitive design as a practice came out of studies in user interaction with consumer products in the 1970s, and by the 80s their use was commonplace in the product design industry. Parts of these principles have transferred into the digital space as “Usability Heuristics” but they have an issue.
 
 ****[**Case Study: Redesigning the website for ‘The Intersectional Feminist’**](https://medium.muz.li/case-study-redesigning-the-website-for-the-intersectional-feminist-8a6c9900e675?ref=uxthisweek)****[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)This project elaborates on the design decisions taken while redesigning a website for The Intersectional Feminist** **from scratch. The project took about a month and a half to design & develop.
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)This project elaborates on the design decisions taken while redesigning a website for The Intersectional Feminist **** from scratch. The project took about a month and a half to design & develop.
 
 ****[**How Bob Moog brought usability heuristics to the electronic synthesizer**\
 ****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Decades prior to the modern-day computer as we know it, Bob Moog used design principles to bring a once niche instrument to the mainstream, influencing generations of musicians and instrument interfaces.
 
 {% hint style="info" %}
 Join us on Social Platforms. \
-[**Twitter**](https://twitter.com/uxtw2)** | **[**Facebook**](https://www.facebook.com/webusabilityandux)** | **[**Linkedin**](https://www.linkedin.com/groups/1875717/)** | **[**Slack**](https://join.slack.com/t/uxthisweek/shared\_invite/zt-szpdweo1-d78hso8FppFcI68Xue\_9Yw)** | Newsletter**
+[**Twitter**](https://twitter.com/uxtw2) **|** [**Facebook**](https://www.facebook.com/webusabilityandux) **|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **|** [**Slack**](https://join.slack.com/t/uxthisweek/shared\_invite/zt-szpdweo1-d78hso8FppFcI68Xue\_9Yw) **| Newsletter**
 {% endhint %}
 
 ## Products of the week
@@ -45,5 +45,5 @@ A repository of workspaces, items & tools from the creator community.
 
 {% hint style="info" %}
 Join us on Social Platforms.\
-[**Twitter**](https://twitter.com/uxtw2)** | **[**Facebook**](https://www.facebook.com/webusabilityandux)** | **[**Linkedin**](https://www.linkedin.com/groups/1875717/)** | **[**Slack**](https://join.slack.com/t/uxthisweek/shared\_invite/zt-szpdweo1-d78hso8FppFcI68Xue\_9Yw)** | **[**Newsletter**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123\&id=0009036f95)
+[**Twitter**](https://twitter.com/uxtw2) **|** [**Facebook**](https://www.facebook.com/webusabilityandux) **|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **|** [**Slack**](https://join.slack.com/t/uxthisweek/shared\_invite/zt-szpdweo1-d78hso8FppFcI68Xue\_9Yw) **|** [**Newsletter**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123\&id=0009036f95)
 {% endhint %}

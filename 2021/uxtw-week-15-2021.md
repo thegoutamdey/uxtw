@@ -22,7 +22,7 @@ To improve customer experience, organizations can choose solutions ranging from 
 [**UXTW**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123\&id=0009036f95)\
 Subscribe to _**UX This Week newsletter**_  to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
 
-[**Over-complicated? Over-simplified? The UX Efficient Frontier**](https://uxdesign.cc/over-complicated-over-simplified-the-ux-efficient-frontier-561d7773bc6b/)** **\
+[**Over-complicated? Over-simplified? The UX Efficient Frontier**](https://uxdesign.cc/over-complicated-over-simplified-the-ux-efficient-frontier-561d7773bc6b/) **** \
 Wow there’s too much information, I’m pushing for a major redesign — I would never be able to use this.
 
 [**User-Centered Design and Design Thinking: Different Origins, similar practices**](https://measuringu.com/ucd-and-design-thinking/)\
@@ -30,7 +30,7 @@ User-Centered Design and Design Thinking are methods used to produce initial des
 
 ## Products of the week
 
-[**Upvoty **](https://www.upvoty.com/?ref=thegoutamdey)\
+[**Upvoty** ](https://www.upvoty.com/?ref=thegoutamdey)\
 Turn user feedback into actionable product optimizations!
 
 [**Hellonext**](https://hellonext.co/?ref=thegoutamdey)\

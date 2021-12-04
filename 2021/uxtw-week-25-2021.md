@@ -13,7 +13,7 @@ description: >-
 ****[**Capturing UX project requirements**](https://blog.prototypr.io/how-to-capture-ux-project-requirements-e1ba9b5174bb/?ref=uxthisweek)\
 Requirements are about answering as many questions as you can, and writing those answers down in such a way that they are actionable and trackable.
 
-****[**The benefits of applying an experience-driven mindset**](https://www.redhat.com/en/blog/stronger-ux-and-beyond-benefits-applying-experience-driven-mindset?term=26211/?ref=uxthisweek)** at Red Hat**\
+****[**The benefits of applying an experience-driven mindset**](https://www.redhat.com/en/blog/stronger-ux-and-beyond-benefits-applying-experience-driven-mindset?term=26211/?ref=uxthisweek) **at Red Hat**\
 ****In a UXD context, this means putting our users first throughout our design process from ideation to final implementation.&#x20;
 
 [**The evolution of UX challenges**](https://uxdesign.cc/the-evolution-of-ux-challenges-5e1748b82ede/?ref=uxthisweek)\

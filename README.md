@@ -4,49 +4,49 @@ description: >-
   Service Design.
 ---
 
-# Week 47, November 2021
+# Week 48, December 2021
 
-![](.gitbook/assets/uxtw-banner-2021-47.jpg)
+![](.gitbook/assets/uxtw-banner-2021-48.jpg)
 
-## UXThisWeek - Issue #47 November, 2021
+## UXThisWeek - Issue #48 December, 2021
 
 ## Articles of the week
 
 ****
 
-****[**3 Tips for Aspiring UX UI Designers**](https://divamithoughts.medium.com/3-tips-for-aspiring-ux-ui-designers-6b245aa60e1)****[****\
-****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)Storytelling: Because you’re only showing a few of your best projects, you’ll need to convey captivating stories about each one. Your portfolio works as a storyteller, taking your audience on a journey of each of your projects and you as a designer.
+****[**10 Rules of Thumb for UI/UX Design**](https://uxplanet.org/rules-of-thumb-for-ui-ux-design-4d7a053d781)****[****\
+****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)Only by knowing what the current system status is can you change it — that is, you can figure out what you need to do next in order to reach your goal.
 
-[Types of design tools for voice user interfaces and how to use them](https://uxdesign.cc/types-of-design-tools-for-voice-user-interfaces-and-how-to-use-them-97172f18228e)[****\
-****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)If you want to learn how to design a voice interaction for Alexa, Google Assistant, or any other conversational interface, in this article I will go through the different tools you can use in your projects and how to work with each one of them.
+****[**Is radical product thinking the future of product design?**](https://uxdesign.cc/is-radical-product-thinking-the-future-of-product-design-bfdb083827e9)****[****\
+****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)Unfortunately, when we’re iteration-led, i.e. when our iterations are not driven by a clear vision and strategy, our products become bloated, fragmented, and driven by irrelevant metrics.
 
-****[**Building your dream UX Team**](https://medium.com/@cubyts/building-your-dream-ux-team-b53a8a68c07f)\
-Deciding to hire an agency partner or build a user experience team of your own can be challenging; after all, there’s a huge list of pros and cons surrounding either choice. But since smooth and effective UX design is critical to putting together a website that converts, it’s a decision you need to make.
+[**A11y - Super-vision for those who need it**](https://medium.com/@dukauwa.du/a11y-super-vision-for-those-who-need-it-8aa5f3292945)\
+A11y has 3 base modes that provide solutions to some basic problems faced by Theresa. These include the **general, text scanner, and assistant modes**.
 
-****[**What UX Tools & Techniques Do Apple Use?**](https://medium.com/@shaheermalikofficial/what-ux-tools-techniques-do-apple-use-1c33b5dda565)****[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Apple has long been leading the market with its innovative design idea and unique design spirit. There is no one more determined company that does not want to make success as big as Apple.
+[**Design Principles and Tactics: Why You Need Both**](https://arturoriosme.medium.com/design-principles-and-tactics-why-you-need-both-49aa28e5d659)****[****\
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)But Rams did not produce the 10 principles in a vacuum. They were the outcome of more than 40 years of trial and error. Dozens of launched products that forged his expertise as a designer.
 
-****[**Dysfunctional systems: Why are we designing for addiction?**](https://uxdesign.cc/dysfunctional-systems-why-are-we-designing-for-addiction-9ce14f6f3879)****[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)One of the most popular models of engagement is Nir Eyal’s Hook model, which is usually presented as either an infinity symbol or a downward spiral.
+[**A Mobile-first Design Approach for SaaS**](https://divamithoughts.medium.com/a-mobile-first-design-approach-for-saas-336f1c1aa037)****[****\
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)With the mobile-first design approach gaining traction, it would be prudent to point out that the future of mobile SaaS is app-driven.
 
 {% hint style="info" %}
 Join us on Social Platforms. \
-[**Twitter**](https://twitter.com/uxtw2)** | **[**Facebook**](https://www.facebook.com/webusabilityandux)** | **[**Linkedin**](https://www.linkedin.com/groups/1875717/)** | **[**Slack**](https://join.slack.com/t/uxthisweek/shared\_invite/zt-szpdweo1-d78hso8FppFcI68Xue\_9Yw)** | Newsletter**
+[**Twitter**](https://twitter.com/uxtw2) **|** [**Facebook**](https://www.facebook.com/webusabilityandux) **|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **|** [**Slack**](https://join.slack.com/t/uxthisweek/shared\_invite/zt-szpdweo1-d78hso8FppFcI68Xue\_9Yw) **| Newsletter**
 {% endhint %}
 
 ## Products of the week
 
-****[**kinopio**](https://kinopio.club)\
-A visual thinking tools for hard problems.&#x20;
+****[**Heurio**](https://chrome.google.com/webstore/detail/heurio-ux-check-visual-fe/pjdbofhiijhapnmpgilkeammkanglfdj)\
+Perfect for UX check, design & development review, heuristic evaluation, user testing and more.
 
-****[**B**rainio](https://brainio.com)[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Note taking and mind mapping combined in one app
+****[**Kosy**](https://www.kosyoffice.com)****[****\
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Where remote teams work and hang out. Kosy makes spending time with your remote team fun & productive
 
-****[**Mindnote**](https://www.mindnode.com)****[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Mind mapping on steroids.&#x20;
+****[**Grist**](https://www.getgrist.com)****[****\
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)The world deserves a better tool than spreadsheets. Combine the flexibility of a spreadsheet with the robustness of a database to organize your data, your way.
 
 {% hint style="info" %}
 Join us on Social Platforms.\
-[**Twitter**](https://twitter.com/uxtw2)** | **[**Facebook**](https://www.facebook.com/webusabilityandux)** | **[**Linkedin**](https://www.linkedin.com/groups/1875717/)** | **[**Slack**](https://join.slack.com/t/uxthisweek/shared\_invite/zt-szpdweo1-d78hso8FppFcI68Xue\_9Yw)** | **[**Newsletter**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123\&id=0009036f95)****
+[**Twitter**](https://twitter.com/uxtw2) **|** [**Facebook**](https://www.facebook.com/webusabilityandux) **|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **|** [**Slack**](https://join.slack.com/t/uxthisweek/shared\_invite/zt-szpdweo1-d78hso8FppFcI68Xue\_9Yw) **|** [**Newsletter**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123\&id=0009036f95)****
 {% endhint %}
 

@@ -22,7 +22,7 @@ The interface is there to serve the user—it shouldn’t draw attention to itse
 [**UXTW**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123\&id=0009036f95)\
 Subscribe to _**UX This Week newsletter**_  to get weekly email full of curated articles and products on every thing UX, Product Design and Design thinking.
 
-[**33 Activity Ideas for Remote UX Workshops**](https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/?ref=thegoutamdey)****[** **](https://uxdesign.cc/the-what-and-why-of-design-debt-861be8b887fe/?ref=thegoutamdey)\
+[**33 Activity Ideas for Remote UX Workshops**](https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/?ref=thegoutamdey)****[ **** ](https://uxdesign.cc/the-what-and-why-of-design-debt-861be8b887fe/?ref=thegoutamdey)\
 Divide into teams. Each team finds two things they have in common and comes up with a team name (like “Zombie Cats”) based on those two things.
 
 [**Design for Emotions**](https://medium.muz.li/want-to-become-a-better-ux-designer-in-2021-design-for-emotions-3356859f1ee9/?ref=thegoutamdey)\

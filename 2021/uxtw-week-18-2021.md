@@ -21,7 +21,7 @@ The most important if you want to solve usability problems. And that is common s
 As an efficiency-focused transformational function, DesignOps needs to be able to quantify and measure impact and results. Identifying the right goals and defining the right KPIs are therefore essential steps for every DesignOps strategy and roadmap to ensure impact and progress can be objectively assessed.\
 &#x20;
 
-[**Using the 30–60–90 Framework for Design Critique**](https://medium.com/swlh/using-the-30-60-90-framework-for-design-critique-960b68026b6f/?ref=thegoutamdey)****[** **](https://uxdesign.cc/the-what-and-why-of-design-debt-861be8b887fe/?ref=thegoutamdey)\
+[**Using the 30–60–90 Framework for Design Critique**](https://medium.com/swlh/using-the-30-60-90-framework-for-design-critique-960b68026b6f/?ref=thegoutamdey)****[ **** ](https://uxdesign.cc/the-what-and-why-of-design-debt-861be8b887fe/?ref=thegoutamdey)\
 What is design critique? Why do it? What is involved? How do I give you feedback? What’s this 30–60–90 thing?.\
 &#x20;
 

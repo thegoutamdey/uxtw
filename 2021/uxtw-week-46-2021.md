@@ -25,11 +25,11 @@ Specifically, when it comes to design presentation and getting stakeholder feedb
 ****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Things we have to deal with in a larger group are more complicated than in a smaller one, and it can often result in a loss of transparency across teams. I am sure a lot of design teams like us have encountered similar situations.
 
 [Designing with words: Tackling UX writing as a UX designer](https://medium.com/patternfly/designing-with-words-tackling-ux-writing-as-a-ux-designer-99f6e4c7ad66)[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)As a UX practitioner, I like to view myself as a designer who writes. I am not a UX writer, but I often put on my UX writing hat when designing a user interface (UI). Being a writer is not my main role, but it’s a crucial part of my UX work. UIs rely heavily on visual and textual information to convey meaningful information to their users. Because of this interplay, images _and _words are mediums we, as UX designers, should master.
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)As a UX practitioner, I like to view myself as a designer who writes. I am not a UX writer, but I often put on my UX writing hat when designing a user interface (UI). Being a writer is not my main role, but it’s a crucial part of my UX work. UIs rely heavily on visual and textual information to convey meaningful information to their users. Because of this interplay, images _and_ words are mediums we, as UX designers, should master.
 
 {% hint style="info" %}
 Join us on Social Platforms. \
-[**Twitter**](https://twitter.com/uxtw2)** | **[**Facebook**](https://www.facebook.com/webusabilityandux)** | **[**Linkedin**](https://www.linkedin.com/groups/1875717/)** | **[**Slack**](https://join.slack.com/t/uxthisweek/shared\_invite/zt-szpdweo1-d78hso8FppFcI68Xue\_9Yw)** | Newsletter**
+[**Twitter**](https://twitter.com/uxtw2) **|** [**Facebook**](https://www.facebook.com/webusabilityandux) **|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **|** [**Slack**](https://join.slack.com/t/uxthisweek/shared\_invite/zt-szpdweo1-d78hso8FppFcI68Xue\_9Yw) **| Newsletter**
 {% endhint %}
 
 ## Products of the week
@@ -45,5 +45,5 @@ The most flexible meeting productivity tool for the hybrid work era. Empower tea
 
 {% hint style="info" %}
 Join us on Social Platforms.\
-[**Twitter**](https://twitter.com/uxtw2)** | **[**Facebook**](https://www.facebook.com/webusabilityandux)** | **[**Linkedin**](https://www.linkedin.com/groups/1875717/)** | **[**Slack**](https://join.slack.com/t/uxthisweek/shared\_invite/zt-szpdweo1-d78hso8FppFcI68Xue\_9Yw)** | **[**Newsletter**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123\&id=0009036f95)
+[**Twitter**](https://twitter.com/uxtw2) **|** [**Facebook**](https://www.facebook.com/webusabilityandux) **|** [**Linkedin**](https://www.linkedin.com/groups/1875717/) **|** [**Slack**](https://join.slack.com/t/uxthisweek/shared\_invite/zt-szpdweo1-d78hso8FppFcI68Xue\_9Yw) **|** [**Newsletter**](https://gmail.us17.list-manage.com/subscribe?u=1b23fd286b43ac36e4acba123\&id=0009036f95)
 {% endhint %}

@@ -19,7 +19,7 @@ For example, we have a mental model of money. It’s often: “I work to get mon
 [**Design Docs at Google**](https://www.industrialempathy.com/posts/design-docs-at-google/?ref=thegoutamdey)\
 Design docs are informal documents and thus don’t follow a strict guideline for their content. Rule #1 is: Write them in whatever form makes the most sense for the particular project.
 
-[**The ‘what’ and ‘why’ of design debt**](https://uxdesign.cc/the-what-and-why-of-design-debt-861be8b887fe/?ref=thegoutamdey)****[** **](https://uxdesign.cc/the-what-and-why-of-design-debt-861be8b887fe/?ref=thegoutamdey)\
+[**The ‘what’ and ‘why’ of design debt**](https://uxdesign.cc/the-what-and-why-of-design-debt-861be8b887fe/?ref=thegoutamdey)****[ **** ](https://uxdesign.cc/the-what-and-why-of-design-debt-861be8b887fe/?ref=thegoutamdey)\
 New notifications don’t fit in the current structure. Even if they were, they would get lost in this noise..
 
 [**Closing the Experience Gap**](https://airbnb.design/closing-the-experience-gap/)\
