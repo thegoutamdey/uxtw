@@ -4,30 +4,30 @@ description: >-
   Service Design.
 ---
 
-# Week 48, December 2021
+# Week 49, December 2021
 
-![](.gitbook/assets/uxtw-banner-2021-48.jpg)
+![](.gitbook/assets/uxtw-banner-2021-49.jpg)
 
-## UXThisWeek - Issue #48 December, 2021
+## UXThisWeek - Issue #49 December, 2021
 
 ## Articles of the week
 
 ****
 
-****[**10 Rules of Thumb for UI/UX Design**](https://uxplanet.org/rules-of-thumb-for-ui-ux-design-4d7a053d781)****[****\
-****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)Only by knowing what the current system status is can you change it — that is, you can figure out what you need to do next in order to reach your goal.
+****[**Designers’ Pick: Best Google Fonts for 2022**](https://medium.muz.li/designers-pick-best-google-fonts-for-2022-15f3db82031c)****[****\
+****](https://airbnb.design/evolving-by-design/?ref=uxthisweek)There are a lot of reasons why Google Fonts reigns supreme over other free font sources. For one, it’s Google, and you know they take things extremely seriously.
 
-****[**Is radical product thinking the future of product design?**](https://uxdesign.cc/is-radical-product-thinking-the-future-of-product-design-bfdb083827e9)****[****\
-****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)Unfortunately, when we’re iteration-led, i.e. when our iterations are not driven by a clear vision and strategy, our products become bloated, fragmented, and driven by irrelevant metrics.
+****[**NIO Aspen 3.0 UIUX Design**](https://medium.com/@glengao/nio-aspen-3-0-uiux-design-341b38df3656)****[****\
+****](https://uxplanet.org/10-simple-tips-to-improve-user-testing-6a86c84e2794/?ref=uxthisweek)In 3.0, we hope to show more **natural interaction** in combination with technological innovation and meet the needs of diversity in different scenarios.
 
-[**A11y - Super-vision for those who need it**](https://medium.com/@dukauwa.du/a11y-super-vision-for-those-who-need-it-8aa5f3292945)\
-A11y has 3 base modes that provide solutions to some basic problems faced by Theresa. These include the **general, text scanner, and assistant modes**.
+****[**Advancing Racial Equity in Design: The Field Guide**](https://medium.com/design-ibm/advancing-racial-equity-in-design-the-field-guide-166d544c84d2)\
+Phil Gilbert, IBM Design’s general manager led a special town hall to address and discuss this sad reality and critically important topic.
 
-[**Design Principles and Tactics: Why You Need Both**](https://arturoriosme.medium.com/design-principles-and-tactics-why-you-need-both-49aa28e5d659)****[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)But Rams did not produce the 10 principles in a vacuum. They were the outcome of more than 40 years of trial and error. Dozens of launched products that forged his expertise as a designer.
+****[**Product designer vs UX designer — what’s the difference?**](https://userpilot.medium.com/product-designer-vs-ux-designer-whats-the-difference-1796a937e3ba)****[****\
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Product designer vs UX designer — how do these two roles measure up against each other?
 
-[**A Mobile-first Design Approach for SaaS**](https://divamithoughts.medium.com/a-mobile-first-design-approach-for-saas-336f1c1aa037)****[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)With the mobile-first design approach gaining traction, it would be prudent to point out that the future of mobile SaaS is app-driven.
+****[**UI & UX micro-tips: Volume eleven**](https://uxdesign.cc/ui-ux-micro-tips-volume-eleven-44425404488f)****[****\
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)A collection of handy tips to help improve your designs instantly.
 
 {% hint style="info" %}
 Join us on Social Platforms. \
@@ -36,14 +36,14 @@ Join us on Social Platforms. \
 
 ## Products of the week
 
-****[**Heurio**](https://chrome.google.com/webstore/detail/heurio-ux-check-visual-fe/pjdbofhiijhapnmpgilkeammkanglfdj)\
-Perfect for UX check, design & development review, heuristic evaluation, user testing and more.
+****[**Welovenocode**](https://welovenocode.com/nocodelist)\
+Discover 300+ no code tools and no code platforms to create the software you need - without coding
 
-****[**Kosy**](https://www.kosyoffice.com)****[****\
-****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Where remote teams work and hang out. Kosy makes spending time with your remote team fun & productive
+****[**Browserflow**](https://browserflow.app)****[****\
+****](https://productcoalition.com/product-discovery-playbook-a579bbe3e572/?ref=uxthisweek)Save time by automating repetitive tasks in your own browser or in the cloud. No coding required
 
-****[**Grist**](https://www.getgrist.com)****[****\
-****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)The world deserves a better tool than spreadsheets. Combine the flexibility of a spreadsheet with the robustness of a database to organize your data, your way.
+****[**collato**](https://collato.com)****[****\
+****](https://uxdesign.cc/how-bob-moog-brought-usability-heuristics-to-the-electronic-synthesizer-a6797a3a9192)Collaborative workflows for teams aligning on creative content, from kick-off to go-live. Brief, review and manage your assets, all in one place.
 
 {% hint style="info" %}
 Join us on Social Platforms.\

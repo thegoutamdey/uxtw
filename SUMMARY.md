@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Week 48, December 2021](README.md)
+* [Week 49, December 2021](README.md)
 * [About UXTW](about-uxtw.md)
 * [Free UX Resources](free-ux-resources.md)
 
